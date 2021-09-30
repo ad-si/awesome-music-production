@@ -390,6 +390,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [DistroKid]
 - [RecordJet]
 - [Spinnup]
+- [MDIIO]
 
 [ReverbNation]: https://www.reverbnation.com
 [TuneCore]: https://www.tunecore.com
@@ -400,6 +401,7 @@ Check it out at [leomask.com](https://leomask.com)
 [DistroKid]: https://distrokid.com
 [RecordJet]: https://www.recordjet.com
 [Spinnup]: https://spinnup.com
+[MDIIO]: https://www.wearemdiio.com
 
 
 ### Management
