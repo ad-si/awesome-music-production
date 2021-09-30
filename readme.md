@@ -50,6 +50,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [Pro Tools]
 - [Reaper] - Complete digital audio production app for Windows and macOS.
 - [Rytmik Studio] - Music creation software.
+- [Studio One] - Complete DAW and live show sequencing.
 - [Zrythm] - Cross-platform DAW.
 
 [Ableton]: https://ableton.com/live
@@ -64,6 +65,7 @@ Check it out at [leomask.com](https://leomask.com)
 [Pro Tools]: http://avid.com/products/pro-tools-software
 [Reaper]: http://reaper.fm
 [Rytmik Studio]: https://store.steampowered.com/app/657280/Rytmik_Studio/
+[Studio One]: https://www.presonus.com/products/Studio-One
 [Zrythm]: https://www.zrythm.org
 
 
