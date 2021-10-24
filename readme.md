@@ -367,16 +367,12 @@ Check it out at [leomask.com](https://leomask.com)
 ### AI Music Creation
 
 - [Amper]
-- [Jukedeck]
-- [Melodrive]
 - [Humtap]
-- [Popgun]
+- [Splash]
 
 [Amper]: https://www.ampermusic.com
-[Jukedeck]: https://www.jukedeck.com
-[Melodrive]: http://melodrive.com
 [Humtap]: https://www.humtap.com
-[Popgun]: https://popgun.ai
+[Splash]: https://www.splashhq.com
 
 
 ### Music Distribution
