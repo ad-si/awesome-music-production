@@ -195,6 +195,7 @@ Check it out at [leomask.com](https://leomask.com)
     with an artist's sketchbook (iOS only).
 - [Dragonfly Reverb] - Open source audio effects for Linux, macOS, and Windows.
 - [Fluajho] - Simple SF2 soundfont host and player for Linux.
+- [JJazzLab] - Easily generate dynamic backing tracks for any song.
 - [IXI Programs] - Apps for creating musical instruments and environments.
 - [KXStudio] - Collection of applications and plugins for audio production.
 - [Laborejo] - MIDI sequencer based on classical music notation.
@@ -217,6 +218,7 @@ Check it out at [leomask.com](https://leomask.com)
 [Composer's Sketchpad]: http://composerssketchpad.com
 [Dragonfly Reverb]: https://github.com/michaelwillis/dragonfly-reverb
 [Fluajho]: https://www.laborejo.org/fluajho/
+[JJazzLab]: https://www.jjazzlab.com
 [IXI Programs]: http://www.ixi-audio.net/content/software.html
 [KXStudio]: https://kx.studio
 [Laborejo]: https://www.laborejo.org/laborejo/
