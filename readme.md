@@ -81,6 +81,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [Faust] - Functional programming language
     for sound synthesis and audio processing.
 - [FourVoices] - Automatic music generator for four-part writing.
+- [Gwion] - A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.
 - [Houdini Music Toolset] - Adding MIDI functionality to 3D program [Houdini].
 - [Klasma] - Chiptune music composition kit.
 - [libsoundio] - Cross platform audio input and output library.
@@ -131,6 +132,7 @@ Check it out at [leomask.com](https://leomask.com)
 [Euterpea]: http://www.euterpea.com
 [Faust]: https://faust.grame.fr
 [FourVoices]: https://github.com/erickim555/FourVoices
+[Gwion]: https://github.com/Gwion/Gwion
 [Houdini]: https://www.sidefx.com/products/houdini/
 [Houdini Music Toolset]: https://github.com/andrew-lowell/HMT
 [Klasma]: https://github.com/hdgarrood/klasma
