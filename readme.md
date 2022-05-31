@@ -352,7 +352,8 @@ Check it out at [leomask.com](https://leomask.com)
     or ChordPro ukulele songs.
 - [Ukutabs] - Source for ukulele tabs, chords, tips, tools, guides
 - [Ukulele Chord Finder]
-- [Ukulele Chord Detector] - An online tool for identifying chords and showing the notes on an ukulele fretboard.
+- [Ukulele Chord Detector] - Website for identifying chords 
+    and showing notes on a fretboard.
 
 [Chordata]: https://github.com/starenka/chordata
 [Fretboard]: https://github.com/AlexMost/fretboard
@@ -361,7 +362,7 @@ Check it out at [leomask.com](https://leomask.com)
 [Ukutabs]: https://ukutabs.com
 [Ukulele Chord Finder]:
     https://frazierpianostudio.com/resources/ukulele-chord-finder/
-[Ukulele Chord Detector]:https://ukealong.com/tool/chord-detector/
+[Ukulele Chord Detector]: https://ukealong.com/tool/chord-detector/
 
 
 ## Services
