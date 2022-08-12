@@ -75,6 +75,7 @@ Check it out at [leomask.com](https://leomask.com)
     and producing midi streams.
 - [Band.js] - Music composer interface for the Web Audio API.
 - [Blip] - Looping and sampling with the Web Audio API.
+- [Cane] - A small MIDI sequencer DSL designed around vectors and euclidean rhythms.
 - [CSound] - A sound and music computing system.
 - [Dplug] - Library to make audio plug-ins with the D programming language.
 - [Euterpea] - In Haskell embedded language for computer music applications.
@@ -126,6 +127,7 @@ Check it out at [leomask.com](https://leomask.com)
 [Aubio]: https://aubio.org
 [Band.js]: https://github.com/meenie/band.js
 [Blip]: http://jshanley.github.io/blip
+[Cane]: https://github.com/Jackojc/cane
 [CSound]: https://csound.com/index.html
 [Dplug]: https://github.com/AuburnSounds/dplug
 [Euterpea]: http://www.euterpea.com
