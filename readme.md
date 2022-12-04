@@ -50,6 +50,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [Pro Tools]
 - [Reaper] - Complete digital audio production app for Windows and macOS.
 - [Rytmik Studio] - Music creation software.
+- [Stargate DAW] - All-in-one DAW and plugin suite for Windows, macOS and Linux.
 - [Zrythm] - Cross-platform DAW.
 
 [Ableton]: https://ableton.com/live
@@ -64,6 +65,7 @@ Check it out at [leomask.com](https://leomask.com)
 [Pro Tools]: http://avid.com/products/pro-tools-software
 [Reaper]: http://reaper.fm
 [Rytmik Studio]: https://store.steampowered.com/app/657280/Rytmik_Studio/
+[Stargate DAW]: https://github.com/stargatedaw/stargate
 [Zrythm]: https://www.zrythm.org
 
 
@@ -354,7 +356,7 @@ Check it out at [leomask.com](https://leomask.com)
     or ChordPro ukulele songs.
 - [Ukutabs] - Source for ukulele tabs, chords, tips, tools, guides
 - [Ukulele Chord Finder]
-- [Ukulele Chord Detector] - Website for identifying chords 
+- [Ukulele Chord Detector] - Website for identifying chords
     and showing notes on a fretboard.
 
 [Chordata]: https://github.com/starenka/chordata
