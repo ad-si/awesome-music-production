@@ -50,6 +50,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [Pro Tools]
 - [Reaper] - Complete digital audio production app for Windows and macOS.
 - [Rytmik Studio] - Music creation software.
+- [Stargate DAW] - All-in-one DAW and plugin suite for Windows, macOS and Linux.
 - [Zrythm] - Cross-platform DAW.
 
 [Ableton]: https://ableton.com/live
@@ -64,6 +65,7 @@ Check it out at [leomask.com](https://leomask.com)
 [Pro Tools]: http://avid.com/products/pro-tools-software
 [Reaper]: http://reaper.fm
 [Rytmik Studio]: https://store.steampowered.com/app/657280/Rytmik_Studio/
+[Stargate DAW]: https://github.com/stargatedaw/stargate
 [Zrythm]: https://www.zrythm.org
 
 
@@ -75,12 +77,14 @@ Check it out at [leomask.com](https://leomask.com)
     and producing midi streams.
 - [Band.js] - Music composer interface for the Web Audio API.
 - [Blip] - Looping and sampling with the Web Audio API.
+- [Cane] - A small MIDI sequencer DSL designed around vectors and euclidean rhythms.
 - [CSound] - A sound and music computing system.
 - [Dplug] - Library to make audio plug-ins with the D programming language.
 - [Euterpea] - In Haskell embedded language for computer music applications.
 - [Faust] - Functional programming language
     for sound synthesis and audio processing.
 - [FourVoices] - Automatic music generator for four-part writing.
+- [Gwion] - A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.
 - [Houdini Music Toolset] - Adding MIDI functionality to 3D program [Houdini].
 - [Klasma] - Chiptune music composition kit.
 - [libsoundio] - Cross platform audio input and output library.
@@ -126,11 +130,13 @@ Check it out at [leomask.com](https://leomask.com)
 [Aubio]: https://aubio.org
 [Band.js]: https://github.com/meenie/band.js
 [Blip]: http://jshanley.github.io/blip
+[Cane]: https://github.com/Jackojc/cane
 [CSound]: https://csound.com/index.html
 [Dplug]: https://github.com/AuburnSounds/dplug
 [Euterpea]: http://www.euterpea.com
 [Faust]: https://faust.grame.fr
 [FourVoices]: https://github.com/erickim555/FourVoices
+[Gwion]: https://github.com/Gwion/Gwion
 [Houdini]: https://www.sidefx.com/products/houdini/
 [Houdini Music Toolset]: https://github.com/andrew-lowell/HMT
 [Klasma]: https://github.com/hdgarrood/klasma
@@ -195,6 +201,7 @@ Check it out at [leomask.com](https://leomask.com)
     with an artist's sketchbook (iOS only).
 - [Dragonfly Reverb] - Open source audio effects for Linux, macOS, and Windows.
 - [Fluajho] - Simple SF2 soundfont host and player for Linux.
+- [JJazzLab] - Easily generate dynamic backing tracks for any song.
 - [IXI Programs] - Apps for creating musical instruments and environments.
 - [KXStudio] - Collection of applications and plugins for audio production.
 - [Laborejo] - MIDI sequencer based on classical music notation.
@@ -217,6 +224,7 @@ Check it out at [leomask.com](https://leomask.com)
 [Composer's Sketchpad]: http://composerssketchpad.com
 [Dragonfly Reverb]: https://github.com/michaelwillis/dragonfly-reverb
 [Fluajho]: https://www.laborejo.org/fluajho/
+[JJazzLab]: https://www.jjazzlab.com
 [IXI Programs]: http://www.ixi-audio.net/content/software.html
 [KXStudio]: https://kx.studio
 [Laborejo]: https://www.laborejo.org/laborejo/
@@ -352,6 +360,8 @@ Check it out at [leomask.com](https://leomask.com)
     or ChordPro ukulele songs.
 - [Ukutabs] - Source for ukulele tabs, chords, tips, tools, guides
 - [Ukulele Chord Finder]
+- [Ukulele Chord Detector] - Website for identifying chords
+    and showing notes on a fretboard.
 
 [Chordata]: https://github.com/starenka/chordata
 [Fretboard]: https://github.com/AlexMost/fretboard
@@ -360,6 +370,7 @@ Check it out at [leomask.com](https://leomask.com)
 [Ukutabs]: https://ukutabs.com
 [Ukulele Chord Finder]:
     https://frazierpianostudio.com/resources/ukulele-chord-finder/
+[Ukulele Chord Detector]: https://ukealong.com/tool/chord-detector/
 
 
 ## Services
@@ -367,16 +378,12 @@ Check it out at [leomask.com](https://leomask.com)
 ### AI Music Creation
 
 - [Amper]
-- [Jukedeck]
-- [Melodrive]
 - [Humtap]
-- [Popgun]
+- [Splash]
 
 [Amper]: https://www.ampermusic.com
-[Jukedeck]: https://www.jukedeck.com
-[Melodrive]: http://melodrive.com
 [Humtap]: https://www.humtap.com
-[Popgun]: https://popgun.ai
+[Splash]: https://www.splashhq.com
 
 
 ### Music Distribution
@@ -389,26 +396,22 @@ Check it out at [leomask.com](https://leomask.com)
 - [BandCamp]
 - [DistroKid]
 - [RecordJet]
-- [Spinnup]
+- [Amuse]
 - [MDIIO]
 
 [ReverbNation]: https://www.reverbnation.com
 [TuneCore]: https://www.tunecore.com
 [DittoMusic]: https://www.dittomusic.com
-[SoundCloud]: https://www.soundcloud.com
+[SoundCloud]: https://artists.soundcloud.com
 [Octiive]: https://www.octiive.com
 [BandCamp]: https://bandcamp.com
 [DistroKid]: https://distrokid.com
 [RecordJet]: https://www.recordjet.com
-[Spinnup]: https://spinnup.com
+[Amuse]: https://amuse.io
 [MDIIO]: https://www.wearemdiio.com
 
 
 ### Management
-
-- [SongRiffer] - Organize and browse riffs and song ideas.
-
-[SongRiffer]: https://songriffer.com/
 
 
 ## Datasets
@@ -556,6 +559,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [SFZ Format] - Main reference for creating instruments with the SFZ format.
 - [Know Your Theory] - Interactive tutorial to learn theory fundamentals.
 - [Music Theory] - The exciting universe of music theory.
+- [muted.io] - Interactive music theory tools and visual references.
 - [youtube.com/i_0DXxNeaQ0] - The science and mathematics of music.
 - [Sound hacking and music technologies]
 
@@ -568,6 +572,7 @@ Check it out at [leomask.com](https://leomask.com)
 [SFZ Format]: https://sfzformat.com
 [Know Your Theory]: https://knowyourtheory.com
 [Music Theory]: https://ianring.com/musictheory/
+[muted.io]: https://muted.io
 [youtube.com/i_0DXxNeaQ0]: http://youtube.com/watch?v=i_0DXxNeaQ0
 [Sound hacking and music technologies]: https://youtu.be/v9uE2nHAGb8
 
