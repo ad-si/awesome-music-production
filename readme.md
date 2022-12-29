@@ -390,24 +390,20 @@ Check it out at [leomask.com](https://leomask.com)
 - [BandCamp]
 - [DistroKid]
 - [RecordJet]
-- [Spinnup]
+- [Amuse]
 
 [ReverbNation]: https://www.reverbnation.com
 [TuneCore]: https://www.tunecore.com
 [DittoMusic]: https://www.dittomusic.com
-[SoundCloud]: https://www.soundcloud.com
+[SoundCloud]: https://artists.soundcloud.com
 [Octiive]: https://www.octiive.com
 [BandCamp]: https://bandcamp.com
 [DistroKid]: https://distrokid.com
 [RecordJet]: https://www.recordjet.com
-[Spinnup]: https://spinnup.com
+[Amuse]: https://amuse.io
 
 
 ### Management
-
-- [SongRiffer] - Organize and browse riffs and song ideas.
-
-[SongRiffer]: https://songriffer.com/
 
 
 ## Datasets
