@@ -438,10 +438,12 @@ Check it out at [leomask.com](https://leomask.com)
 - [PremiumBeat] - Curated, high-quality music and sound effects.
 - [Soundstripe] - Royalty-free music and sound effects for video.
 - [Splice] - Royalty-free samples, one-shots, loops, MIDI, and presets.
+- [BigSoundBank] - 2800+ Free and Royalty Free Sounds
 
 [PremiumBeat]: https://www.premiumbeat.com
 [Soundstripe]: https://www.soundstripe.com
 [Splice]: https://splice.com/features/sounds
+[BigSoundBank]: https://bigsoundbank.com/
 
 
 ## Datasets
