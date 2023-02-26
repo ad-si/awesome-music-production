@@ -596,7 +596,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [muted.io] - Interactive music theory tools and visual references.
 - [youtube.com/i_0DXxNeaQ0] - The science and mathematics of music.
 - [Sound hacking and music technologies]
-- [Music Production Chips] - Community-managed collection of tips and tricks for all stages of the music production process
+- [Music Production Chips] - Community-managed collection of tips & tricks for music production.
 
 [Audio Working Group]: https://www.w3.org/2011/audio/
 [Awesome Sheet Music]: https://github.com/ad-si/awesome-sheet-music
