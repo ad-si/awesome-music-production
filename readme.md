@@ -116,6 +116,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [React Music] - Create beats with [React].
 - [Repitch] - Real-time polyphonic MIDI-controlled audio pitch shifting.
 - [Rust Music Theory] - A music theory guide written in Rust.
+- [Sardine] - A music live coding library for Python.
 - [Scribbletune] - Create music with JavaScript.
 - [Sharp11] - Music theorization and improvisation engine.
 - [Slang] - Simple audio programming language implemented in JavaScript.
@@ -171,6 +172,7 @@ Check it out at [leomask.com](https://leomask.com)
 [React]: https://reactjs.org/
 [Repitch]: https://github.com/maxwellpollack/repitch
 [Rust Music Theory]: https://github.com/ozankasikci/rust-music-theory
+[Sardine]: https://github.com/Bubobubobubobubo/sardine
 [Scribbletune]: https://github.com/scribbletune/scribbletune
 [Sharp11]: https://github.com/jsrmath/sharp11
 [Slang]: http://slang.kylestetz.com
