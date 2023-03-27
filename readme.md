@@ -399,6 +399,10 @@ Check it out at [leomask.com](https://leomask.com)
 
 ## Services
 
+- [MusicWall] - Free music landings for producers / engineers with Spotify credits
+
+[MusicWall]: https://musicwall.app
+
 ### AI Music Creation
 
 - [Amper]
