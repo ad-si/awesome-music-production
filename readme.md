@@ -54,6 +54,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [Rytmik Studio] - Music creation software.
 - [Stargate DAW] - All-in-one DAW and plugin suite for Windows, macOS and Linux.
 - [Studio One] - Complete DAW and live show sequencing.
+- [TuneFlow] - Free, AI-powered DAW that provides lyrics/music generation, stem separation, MIDI transcription, as well as full editing and mixing capabilities.
 - [Zrythm] - Cross-platform DAW.
 
 [Ableton]: https://ableton.com/live
@@ -72,6 +73,7 @@ Check it out at [leomask.com](https://leomask.com)
 [Rytmik Studio]: https://store.steampowered.com/app/657280/Rytmik_Studio/
 [Stargate DAW]: https://github.com/stargatedaw/stargate
 [Studio One]: https://www.presonus.com/products/Studio-One
+[TuneFlow]: https://tuneflow.com
 [Zrythm]: https://www.zrythm.org
 
 
