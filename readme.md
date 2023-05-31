@@ -198,11 +198,13 @@ Check it out at [leomask.com](https://leomask.com)
 - [Helm] - GPL licensed polyphonic synth with lots of modulation.
 - [Surge Synthesizer] - Open source digital synthesizer.
 - [NSynth Super] - Open source AI synth from the Google Magenta team.
+- [OpenUtau] - Open source singing voice synthesis platform.
 - [Yoshimi] - Software audio synthesizer.
 
 [Amsynth]: https://amsynth.github.io
 [Helm]: https://tytel.org/helm/
 [NSynth Super]: https://nsynthsuper.withgoogle.com/
+[OpenUtau]: http://www.openutau.com/
 [Surge Synthesizer]:  https://surge-synthesizer.github.io
 [Yoshimi]: https://yoshimi.github.io/
 
