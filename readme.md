@@ -429,10 +429,12 @@ A curated list of software, hardware, and other resources to create music.
 
 - [Amper]
 - [Humtap]
+- [LAIVE]
 - [Splash]
 
 [Amper]: https://www.ampermusic.com
 [Humtap]: https://www.humtap.com
+[LAIVE]: https://www.laive.io
 [Splash]: https://www.splashhq.com
 
 
