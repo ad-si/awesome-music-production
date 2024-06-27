@@ -103,6 +103,7 @@ A curated list of software, hardware, and other resources to create music.
 - [ATM CLI] - Command line tool for generating and working with MIDI files.
 - [Aubio] - Segmentation, pitch detection, tapping the beat
     and producing midi streams.
+- [Augmented Audio] - Library for audio programming written in Rust.
 - [Band.js] - Music composer interface for the Web Audio API.
 - [Blip] - Looping and sampling with the Web Audio API.
 - [Cane] - A small MIDI sequencer DSL designed around vectors and euclidean rhythms.
@@ -161,6 +162,7 @@ A curated list of software, hardware, and other resources to create music.
 - [Vivid] - High quality audio in Haskell with SuperCollider.
 
 [Alda]: https://github.com/alda-lang/alda
+[Augmented Audio]: https://github.com/yamadapc/augmented-audio
 [Megra.rs]: https://github.com/the-drunk-coder/megra.rs
 [Glicol]: https://github.com/chaosprint/glicol
 [ATM CLI]: https://github.com/allthemusicllc/atm-cli
