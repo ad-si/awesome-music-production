@@ -375,6 +375,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [TimeStretch] - Online tool to loop, speed up, slow down, and pitch shift sections of an audio file.
 - [ToneBasic] - Programmatic sound generation in the browser.
 - [Websynths] - Free browser-based microtonal midi instrument.
+- [Tap Tempo] - Free Tap BPM tool that actually syncs with your hardware (Web MIDI).
 
 [108]: https://martinwecke.de/108/
 [AI Duet]: https://experiments.withgoogle.com/ai-duet
