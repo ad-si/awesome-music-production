@@ -374,8 +374,9 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Synthi-JS] - A JavaScript emulator of the legendary EMS Synthi A synthesizer.
 - [TimeStretch] - Online tool to loop, speed up, slow down, and pitch shift sections of an audio file.
 - [ToneBasic] - Programmatic sound generation in the browser.
-- [Websynths] - Free browser-based microtonal midi instrument.
 - [Tap Tempo] - Free Tap BPM tool that actually syncs with your hardware (Web MIDI).
+- [Websynths] - Free browser-based microtonal midi instrument.
+
 
 [108]: https://martinwecke.de/108/
 [AI Duet]: https://experiments.withgoogle.com/ai-duet
@@ -418,8 +419,8 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Synthi-JS]: http://alexnisnevich.github.io/synthi-js
 [TimeStretch]: https://29a.ch/timestretch/
 [ToneBasic]: https://tonebasic--enchanter.repl.co/
-[Websynths]: http://websynths.com
 [Tap Tempo]: https://tapbpmhub.com/
+[Websynths]: http://websynths.com
 
 
 ### SaaS
