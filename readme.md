@@ -377,7 +377,6 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Tap Tempo] - Free Tap BPM tool that actually syncs with your hardware (Web MIDI).
 - [Websynths] - Free browser-based microtonal midi instrument.
 
-
 [108]: https://martinwecke.de/108/
 [AI Duet]: https://experiments.withgoogle.com/ai-duet
 [Arpeggiator]: http://arpeggiator.desandro.com
