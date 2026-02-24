@@ -360,6 +360,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [MyNoise] - Background noises and interactive soundscapes.
 - [Opusonix] - Collaborative planning and mix review platform for tracks and albums.
 - [Piano Genie] - Machine learning augmented piano app.
+- [PracticeLoop] - Web tool for practicing with YouTube videos using speed control and loops.
 - [QuasiMusic] - Quasiperiodic tilings of the plane as sound triggers.
 - [Qwerkey] - Keyboard tonnetz.
 - [Reactor] - Online DJ controller connected to SoundCloud.
@@ -404,6 +405,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [MyNoise]: https://mynoise.net/
 [Opusonix]: https://opusonix.com
 [Piano Genie]: https://piano-genie.glitch.me
+[PracticeLoop]: https://teal-semifreddo-cad4ad.netlify.app
 [QuasiMusic]: https://www.gregegan.net/APPLETS/34/34.html
 [Qwerkey]: http://some1else.github.io/qwerkey
 [Reactor]: https://lukeandersen.github.io/reactor
