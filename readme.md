@@ -281,6 +281,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Composer's Sketchpad] - Sequencer that combines musical staff paper with an artist's sketchbook (iOS only).
 - [Dragonfly Reverb] - Open source audio effects for Linux, macOS, and Windows.
 - [Fluajho] - Simple SF2 soundfont host and player for Linux.
+- [FreeEQ8] - Free, open-source 8-band parametric EQ plugin (VST3/AU) for macOS and Windows.
 - [IXI Programs] - Apps for creating musical instruments and environments.
 - [JJazzLab] - Easily generate dynamic backing tracks for any song.
 - [Konfyt] - Digital keyboard workstation for Linux.
@@ -309,6 +310,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Composer's Sketchpad]: http://composerssketchpad.com
 [Dragonfly Reverb]: https://github.com/michaelwillis/dragonfly-reverb
 [Fluajho]: https://www.laborejo.org/documentation/fluajho/english.html
+[FreeEQ8]: https://github.com/GareBear99/FreeEQ8
 [IXI Programs]: http://www.ixi-audio.net/content/software.html
 [JJazzLab]: https://www.jjazzlab.org/en/
 [Konfyt]: https://github.com/noedigcode/konfyt
