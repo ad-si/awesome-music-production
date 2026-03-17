@@ -346,6 +346,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Binary Synth] - Binary file interpreter for audio synthesis.
 - [BlokDust] - Interactive music-making app to build synths and sounds.
 - [Chords] - Text based chord progression editor.
+- [Chorushive] - Real-time Spotify lyric display with 8 visual themes and WebGL animated backgrounds.
 - [Circle of 5ths Explorer]
 - [Djenerator] - A metal breakdown generator.
 - [Frequency Explorer] - A microtonal additive synthesizer + sequencer
@@ -389,6 +390,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Binary Synth]: https://github.com/MaxAlyokhin/binary-synth
 [BlokDust]: https://blokdust.com
 [Chords]: https://github.com/evashort/chords
+[Chorushive]: https://chorushive.com
 [Circle of 5ths Explorer]:
     https://frazierpianostudio.com/resources/circle-of-fifths-explorer/
 [Djenerator]: http://djen.co
