@@ -430,6 +430,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 - [Landr] - Automatic audio mastering.
 - [Virtu] - Assisted mastering.
+- [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrumental tracks using AI.
 
 [Landr]: https://www.landr.com
 [Virtu]: https://virtu.slatedigital.com
