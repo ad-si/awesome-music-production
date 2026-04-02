@@ -379,6 +379,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [ToneBasic] - Programmatic sound generation in the browser.
 - [Tap Tempo] - Free Tap BPM tool that actually syncs with your hardware (Web MIDI).
 - [Websynths] - Free browser-based microtonal midi instrument.
+- [SongFromLink] - Identify background music from TikTok, YouTube Shorts, Instagram Reels, X, and Facebook Reels video links
 
 [108]: https://martinwecke.de/108/
 [AI Duet]: https://experiments.withgoogle.com/ai-duet
@@ -424,6 +425,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [ToneBasic]: https://tonebasic--enchanter.repl.co/
 [Tap Tempo]: https://tapbpmhub.com/
 [Websynths]: http://websynths.com
+[SongFromLink]: https//songfromlink
 
 
 ### SaaS
