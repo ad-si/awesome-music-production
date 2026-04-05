@@ -121,6 +121,7 @@ A curated list of software, hardware, and other resources to create music.
 - [Houdini Music Toolset] - Adding MIDI functionality to 3D program [Houdini].
 - [Klasma] - Chiptune music composition kit.
 - [Kord] - Music theory binary and library for Rust and JavaScript.
+- [LatentScore] - Simple text to ambient music in Python without GPU.
 - [libsoundio] - Cross platform audio input and output library.
 - [LickCreator] - Online web based music notation.
 - [Leipzig] - Composition library for Clojure and ClojureScript.
@@ -179,6 +180,7 @@ A curated list of software, hardware, and other resources to create music.
 [Houdini Music Toolset]: https://github.com/andrew-lowell/HMT
 [Klasma]: https://github.com/hdgarrood/klasma
 [Kord]: https://github.com/twitchax/kord
+[LatentScore]: https://github.com/prabal-rje/latentscore
 [Leipzig]: https://github.com/ctford/leipzig
 [libsoundio]: http://libsound.io
 [LickCreator]: https://twitter.com/lickcreator
@@ -488,12 +490,14 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 ### AI Music Creation
 
 - [LAIVE]
+- [LatentScore Live] - Generate ambient music from text in the browser.
 - [OBSIDIAN Neural] - Real-time AI loop generation VST3 plugin for live performance with MIDI triggering.
 - [Omnizart] - Transcribe vocals, drums, chords, beats, and more.
 - [Splash] - AI-powered music creation platform.
 - [Suno AI] - AI-powered music composition and production platform.
 
 [LAIVE]: https://www.laive.io
+[LatentScore Live]: https://latentscore.com
 [OBSIDIAN Neural]: https://obsidian-neural.com
 [Omnizart]: https://github.com/Music-and-Culture-Technology-Lab/omnizart
 [Splash]: https://www.splashmusic.com
