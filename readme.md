@@ -39,6 +39,7 @@ A curated list of software, hardware, and other resources to create music.
   - [Misc](#misc-1)
   - [Articles](#articles)
   - [Research](#research)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for music production workflow orchestration, automated audio pipeline management, and multi-agent coordination. MIT licensed.
 
 <!-- tocstop -->
 
