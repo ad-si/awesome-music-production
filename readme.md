@@ -499,6 +499,12 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Splash]: https://www.splashmusic.com
 [Suno AI]: https://suno.com/
 
+### AI Skills & Personas
+
+- [RemoteOpenClaw] - Open marketplace for AI skills and personas built on OpenClaw.
+
+[RemoteOpenClaw]: https://remoteopenclaw.com
+
 
 ### Music Distribution
 
