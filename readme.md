@@ -458,10 +458,10 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 ### Guitar, Ukulele, …
 
+- [Amplitron] - Free, open-source real-time guitar amp simulator with 9 effects. C++17, cross-platform.
 - [Chordata] - A dummy chord-book for mandolin, ukulele and guitar.
 - [Fretboard] - Online Guitar fretboard viewer to study scales and chords.
 - [Guitarix] - Virtual guitar amplifier for Linux running on JACK.
-- - [Amplitron](https://github.com/sudip-mondal-2002/Amplitron) - Free, open-source real-time guitar amp simulator with 9 effects. C++17, cross-platform.
 - [SmartGuitarAmp] - Guitar plugin using neural networks
     to emulate real world hardware.
 - [UkeGeeks] - Creates fingering diagrams by reading plain text
@@ -471,6 +471,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Ukulele Chord Finder]
 - [Ukutabs] - Source for ukulele tabs, chords, tips, tools, guides
 
+[Amplitron]: https://github.com/sudip-mondal-2002/Amplitron
 [Chordata]: https://github.com/starenka/chordata
 [Fretboard]: https://github.com/AlexMost/fretboard
 [Guitarix]: https://guitarix.org
