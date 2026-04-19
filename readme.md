@@ -499,6 +499,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 - [LAIVE]
 - [LatentScore Live] - Generate ambient music from text in the browser.
+- [MemoTune] - Transform text or lyrics into full songs with AI vocals.
 - [OBSIDIAN Neural] - Real-time AI loop generation VST3 plugin for live performance with MIDI triggering.
 - [Omnizart] - Transcribe vocals, drums, chords, beats, and more.
 - [Splash] - AI-powered music creation platform.
@@ -506,6 +507,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 [LAIVE]: https://www.laive.io
 [LatentScore Live]: https://latentscore.com
+[MemoTune]: https://memotune.com
 [OBSIDIAN Neural]: https://obsidian-neural.com
 [Omnizart]: https://github.com/Music-and-Culture-Technology-Lab/omnizart
 [Splash]: https://www.splashmusic.com
