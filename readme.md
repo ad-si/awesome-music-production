@@ -472,6 +472,8 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Chordata] - A dummy chord-book for mandolin, ukulele and guitar.
 - [Fretboard] - Online Guitar fretboard viewer to study scales and chords.
 - [Guitarix] - Virtual guitar amplifier for Linux running on JACK.
+- [Karplus-Strong Guitar] - JavaScript implementation of the Karplus-Strong
+    plucked string synthesis algorithm.
 - [SmartGuitarAmp] - Guitar plugin using neural networks
     to emulate real world hardware.
 - [UkeGeeks] - Creates fingering diagrams by reading plain text
@@ -485,6 +487,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Chordata]: https://github.com/starenka/chordata
 [Fretboard]: https://github.com/AlexMost/fretboard
 [Guitarix]: https://guitarix.org
+[Karplus-Strong Guitar]: http://amid.fish/javascript-karplus-strong
 [SmartGuitarAmp]: https://github.com/GuitarML/SmartGuitarAmp
 [UkeGeeks]: https://github.com/buzcarter/UkeGeeks
 [Ukulele Chord Detector]: https://ukealong.com/tool/chord-detector/
