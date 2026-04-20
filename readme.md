@@ -500,6 +500,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 ### AI Music Creation
 
+- [AceTagGen] - Free prompt-building toolkit for Suno AI; structured 12-step questionnaire + 3,000+ community-verified tags + quality scorer.
 - [LAIVE]
 - [LatentScore Live] - Generate ambient music from text in the browser.
 - [MemoTune] - Transform text or lyrics into full songs with AI vocals.
@@ -508,6 +509,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Splash] - AI-powered music creation platform.
 - [Suno AI] - AI-powered music composition and production platform.
 
+[AceTagGen]: https://acetaggen.com
 [LAIVE]: https://www.laive.io
 [LatentScore Live]: https://latentscore.com
 [MemoTune]: https://memotune.com
