@@ -494,7 +494,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Ukulele Chord Finder]:
     https://frazierpianostudio.com/resources/ukulele-chord-finder/
 [Ukutabs]: https://ukutabs.com
-
+- [KeyboardTester.click — Pitch Detector + Frequency Response](https://keyboardtester.click/pitch-detector.php) - Free browser-based pitch detector with Hz/note/cents readout, plus a 20 Hz–20 kHz log sweep for monitor/headphone calibration. Built on Web Audio API. Open source.
 
 ## Services
 
