@@ -545,6 +545,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 ### AI Music Creation
 
+- [HookGenius] - AI lyrics and style prompt generator for Suno; produces copy-paste-ready hooks, song structures, and genre-tuned style tags.
 - [LAIVE]
 - [LatentScore Live] - Generate ambient music from text in the browser.
 - [MemoTune] - Transform text or lyrics into full songs with AI vocals.
@@ -553,6 +554,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Splash] - AI-powered music creation platform.
 - [Suno AI] - AI-powered music composition and production platform.
 
+[HookGenius]: https://hookgenius.app
 [LAIVE]: https://www.laive.io
 [LatentScore Live]: https://latentscore.com
 [MemoTune]: https://memotune.com
