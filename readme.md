@@ -552,6 +552,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Omnizart] - Transcribe vocals, drums, chords, beats, and more.
 - [Splash] - AI-powered music creation platform.
 - [Suno AI] - AI-powered music composition and production platform.
+- [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrument tracks using AI
 
 [LAIVE]: https://www.laive.io
 [LatentScore Live]: https://latentscore.com
