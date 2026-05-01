@@ -589,8 +589,10 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 ### Music Promotion
 
+- [MoveMusic] - AI-powered sync licensing and music promotion platform connecting artists with TV, film, and brand opportunities.
 - [SubmitHub] - Submit your music to bloggers and curators.
 
+[MoveMusic]: https://movemusic.alldayautomations.ai
 [SubmitHub]: https://www.submithub.com
 
 
