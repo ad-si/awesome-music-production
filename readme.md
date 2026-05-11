@@ -426,6 +426,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [TimeStretch] - Online tool to loop, speed up, slow down, and pitch shift sections of an audio file.
 - [Tap Tempo] - Free Tap BPM tool that actually syncs with your hardware (Web MIDI).
 - [Web Theremin] - Browser-based theremin instrument.
+- [Tonalux] - Free browser-based audio tools: spectrum analyzer, plugin comparer, and media converter.
 - [Websynths] - Free browser-based microtonal midi instrument.
 
 [108]: https://martinwecke.de/108/
@@ -477,6 +478,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [SongFromLink]: https://songfromlink.com
 [TimeStretch]: https://29a.ch/timestretch/
 [Tap Tempo]: https://tapbpmhub.com/
+[Tonalux]: https://tonalux.org
 [Web Theremin]: https://hat-and-beard.itch.io/web-theremin
 [Websynths]: https://www.websynths.com/
 
