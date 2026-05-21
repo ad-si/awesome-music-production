@@ -143,6 +143,7 @@ A curated list of software, hardware, and other resources to create music.
 - [Megra.rs] - A Rust library for algorithmic music composition.
 - [meSing.js] - JavaScript singing synthesis library.
 - [Microm] - JavaScript library to convert browser microphone to mp3.
+- [mididings] - A Python-based MIDI router and processor for Linux and macOS
 - [Music Suite] - Haskell based language for describing music.
 - [Nashville] - Convert Nashville Number System (NNS) entries to chords.
 - [Node Speaker] - Output PCM audio data to the speakers.
@@ -202,6 +203,7 @@ A curated list of software, hardware, and other resources to create music.
 [Magiclock]: https://github.com/faroit/magiclock
 [meSing.js]: https://github.com/usdivad/mesing
 [Microm]: https://github.com/zzarcon/microm
+[mididings]: https://github.com/mididings/mididings
 [Music Suite]: https://music-suite.github.io/
 [Nashville]: https://github.com/sgoudie/nashville
 [Node PitchFinder]: https://github.com/cristovao-trevisan/node-pitchfinder
@@ -224,6 +226,7 @@ A curated list of software, hardware, and other resources to create music.
 [Slang]: http://slang.kylestetz.com
 [Spectmorph]: https://www.spectmorph.org/
 [Spleeter]: https://github.com/deezer/spleeter
+[stagedings]: https://github.com/mididings/stagedings
 [Step Sequencer]: https://github.com/bholtbholt/step-sequencer
 [Teoria]: https://github.com/saebekassebil/teoria
 [timbre.js]: https://mohayonao.github.io/timbre.js/
@@ -420,6 +423,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Song Maker] - Simple step sequencer.
 - [Sononym] - Visual sample browser.
 - [Splice] - Music creation and collaboration platform.
+- [stagedings] - An UI and API for mididings
 - [SuperCollider] - Platform for audio synthesis and algorithmic composition.
 - [Synth Time] - Simple synthesizer.
 - [Synthi-JS] - A JavaScript emulator of the legendary EMS Synthi A synthesizer.
