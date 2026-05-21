@@ -125,6 +125,7 @@ A curated list of software, hardware, and other resources to create music.
 - [Blip] - Looping and sampling with the Web Audio API.
 - [Cane] - A small MIDI sequencer DSL designed around vectors and euclidean rhythms.
 - [CSound] - A sound and music computing system.
+- [demucs-onnx] - Run and export HT-Demucs music source separation as ONNX (pure numpy + onnxruntime, no PyTorch at inference).
 - [Dplug] - Library to make audio plug-ins with the D programming language.
 - [Euterpea] - In Haskell embedded language for computer music applications.
 - [Faust] - Functional programming language
@@ -186,6 +187,7 @@ A curated list of software, hardware, and other resources to create music.
 [Blip]: https://jshanley.github.io/blip/
 [Cane]: https://github.com/tarpit-collective/cane
 [CSound]: https://csound.com/index.html
+[demucs-onnx]: https://github.com/StemSplit/demucs-onnx
 [Dplug]: https://github.com/AuburnSounds/dplug
 [Euterpea]: https://www.euterpea.com/
 [Faust]: https://faust.grame.fr
