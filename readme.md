@@ -432,6 +432,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Tap Tempo] - Free Tap BPM tool that actually syncs with your hardware (Web MIDI).
 - [Web Theremin] - Browser-based theremin instrument.
 - [Websynths] - Free browser-based microtonal midi instrument.
+- [WhatChord] - Real-time MIDI chord recognition with an explore mode for building chords.
 
 [108]: https://martinwecke.de/108/
 [ABC Tutorial]: https://github.com/newlandsvalley/purescript-abc-tutorial
@@ -485,6 +486,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Tap Tempo]: https://tapbpmhub.com/
 [Web Theremin]: https://hat-and-beard.itch.io/web-theremin
 [Websynths]: https://www.websynths.com/
+[WhatChord]: https://whatchord.earthmanmuons.com/
 
 
 ### SaaS
