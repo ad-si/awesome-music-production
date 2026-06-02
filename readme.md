@@ -143,6 +143,7 @@ A curated list of software, hardware, and other resources to create music.
 - [Megra.rs] - A Rust library for algorithmic music composition.
 - [meSing.js] - JavaScript singing synthesis library.
 - [Microm] - JavaScript library to convert browser microphone to mp3.
+- [mididings] - A Python-based MIDI router and processor for Linux and macOS
 - [Music Suite] - Haskell based language for describing music.
 - [Nashville] - Convert Nashville Number System (NNS) entries to chords.
 - [Node Speaker] - Output PCM audio data to the speakers.
@@ -202,6 +203,7 @@ A curated list of software, hardware, and other resources to create music.
 [Magiclock]: https://github.com/faroit/magiclock
 [meSing.js]: https://github.com/usdivad/mesing
 [Microm]: https://github.com/zzarcon/microm
+[mididings]: https://github.com/mididings/mididings
 [Music Suite]: https://music-suite.github.io/
 [Nashville]: https://github.com/sgoudie/nashville
 [Node PitchFinder]: https://github.com/cristovao-trevisan/node-pitchfinder
@@ -224,6 +226,7 @@ A curated list of software, hardware, and other resources to create music.
 [Slang]: http://slang.kylestetz.com
 [Spectmorph]: https://www.spectmorph.org/
 [Spleeter]: https://github.com/deezer/spleeter
+[stagedings]: https://github.com/mididings/stagedings
 [Step Sequencer]: https://github.com/bholtbholt/step-sequencer
 [Teoria]: https://github.com/saebekassebil/teoria
 [timbre.js]: https://mohayonao.github.io/timbre.js/
@@ -379,6 +382,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 - [108] - Minimal beat machine.
 - [ABC Tutorial] - Learn ABC notation through an interactive tutorial.
+- [Accordion] - Play a button accordion using your computer keyboard.
 - [AI Duet] - A smart piano that responds to you.
 - [Arpeggiator] - Web Audio Arpeggiator.
 - [Audio Motion Interface] - Use smartphone motions to control a synthesizer.
@@ -419,18 +423,22 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Song Maker] - Simple step sequencer.
 - [Sononym] - Visual sample browser.
 - [Splice] - Music creation and collaboration platform.
+- [stagedings] - An UI and API for mididings
 - [SuperCollider] - Platform for audio synthesis and algorithmic composition.
 - [Synth Time] - Simple synthesizer.
 - [Synthi-JS] - A JavaScript emulator of the legendary EMS Synthi A synthesizer.
 - [SongFromLink] - Identify background music from TikTok, YouTube Shorts, Instagram Reels, X, and Facebook Reels video links
 - [TimeStretch] - Online tool to loop, speed up, slow down, and pitch shift sections of an audio file.
 - [Tap Tempo] - Free Tap BPM tool that actually syncs with your hardware (Web MIDI).
+- [Vizz.fm] - Browser-based music visualizer with customizable scenes and savable presets.
 - [Web Theremin] - Browser-based theremin instrument.
 - [Tonalux] - Free browser-based audio tools: spectrum analyzer, plugin comparer, and media converter.
 - [Websynths] - Free browser-based microtonal midi instrument.
+- [WhatChord] - Real-time MIDI chord recognition with an explore mode for building chords.
 
 [108]: https://martinwecke.de/108/
 [ABC Tutorial]: https://github.com/newlandsvalley/purescript-abc-tutorial
+[Accordion]: https://github.com/taniarascia/accordion
 [AI Duet]: https://experiments.withgoogle.com/ai-duet
 [Arpeggiator]: https://arpeggiator.desandro.com/
 [Audio Motion Interface]: https://github.com/MaxAlyokhin/audio-motion-interface
@@ -479,8 +487,10 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [TimeStretch]: https://29a.ch/timestretch/
 [Tap Tempo]: https://tapbpmhub.com/
 [Tonalux]: https://tonalux.org
+[Vizz.fm]: https://vizz.fm
 [Web Theremin]: https://hat-and-beard.itch.io/web-theremin
 [Websynths]: https://www.websynths.com/
+[WhatChord]: https://whatchord.earthmanmuons.com/
 
 
 ### SaaS
@@ -547,6 +557,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 ### AI Music Creation
 
+- [ILLUGEN] - AI-powered text-to-sample engine.
 - [LAIVE]
 - [LatentScore Live] - Generate ambient music from text in the browser.
 - [MemoTune] - Transform text or lyrics into full songs with AI vocals.
@@ -555,6 +566,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Splash] - AI-powered music creation platform.
 - [Suno AI] - AI-powered music composition and production platform.
 
+[ILLUGEN]: https://www.waves.com/illugen
 [LAIVE]: https://www.laive.io
 [LatentScore Live]: https://latentscore.com
 [MemoTune]: https://memotune.com
@@ -658,9 +670,12 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 ### MIDI Controllers
 
 - [Artiphon] - Guitar like MPE controller.
+- [ATEMP MB1] - Button accordion-shaped MIDI controller with DIN-5 and USB MIDI output.
 - [Bela] - Computing platform for creating responsive interactive applications.
 - [C-Thru Music Axis] - Hexagonal and harmonic table based controller.
 - [Continuum Fingerboard] - Linear piano like MPE playing surface.
+- [Digital Accordina] - Compact solo electronic wind instrument and MIDI controller with breath control and onboard effects.
+- [Digital Flex Accordion] - Portable digital accordion with dual keyboards, breath control, and onboard sounds.
 - [DIY Controller] - DIY midi controller with simple buttons.
 - [Dodeka Stellar] - Linear and isomorphic MIDI keyboard.
 - [dualo du-touch] - Accordion like controller with hexagonal pads.
@@ -670,23 +685,30 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Joué] - Expressive and modular MPE controller.
 - [LinnStrument] - Grid based expressive [MPE] controller.
 - [Lumatone] - Hexagonal isomorphic keyboard.
+- [MIDI Button Keyboard] - 5-row chromatic button accordion-style MIDI controller with built-in sounds and speakers.
 - [MIDILodica] - Breath-controlled, 3D printed, open-source MIDI device.
+- [MIDI Goblin] - Hardware MIDI tool and patch librarian with arpeggiator, step sequencer, LFO, and auto-chord features.
 - [Mimu Gloves] - Expressive wearable musical instrument.
 - [Morph] - Expressive MPE touch controller with swappable hardware interfaces.
 - [MPK mini] - Cheap and functional mini keyboard controller.
 - [Neova] - Expressive finger ring.
 - [NuEVI] - Electronic valve instrument MIDI controller.
+- [NuRAD] - Digital wind controller with EWI, sax, and EVI fingering options.
 - [Open Woodwind Project] - Electronic aerophone.
 - [OpenDeck] - Hardware platform to build custom MIDI controllers.
 - [QuNexus] - Small and portable MPE keyboard.
+- [RokoTMIDI] - Minimal button accordion MIDI controller with USB-C, DIN MIDI, and Bluetooth.
 - [ROLI Blocks] - Portable snap-together MIDI controller with both desktop and mobile interfaces.
 - [Striso] - Expressive MPE controller with a grid-based layout.
 - [XVI Desktop] - USB 16 Channel Fader Bank with CV, I2C, and MIDI.
 
 [Artiphon]: https://www.artiphon.com/
+[ATEMP MB1]: https://atemp.ru/en/products/atemp_mb1.html
 [Bela]: https://bela.io
 [C-Thru Music Axis]: https://c-thru-music.com/cgi/index.cgi
 [Continuum Fingerboard]: https://www.hakenaudio.com/
+[Digital Accordina]: https://www.midiaccordion.com/accordina/
+[Digital Flex Accordion]: https://www.midiaccordion.com/flex/
 [DIY Controller]: https://hackaday.com/2019/07/15/getting-midi-under-control/
 [Dodeka Stellar]: https://www.dodekamusic.com/stellar/
 [dualo du-touch]: https://dualo.com/
@@ -696,17 +718,21 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Joué]: https://jouemusic.com/
 [LinnStrument]: https://www.rogerlinndesign.com/linnstrument
 [Lumatone]: https://www.lumatone.io
+[MIDI Button Keyboard]: https://www.midiaccordion.com/midikb_rev2/
 [MIDILodica]: https://github.com/XavierGerD/MIDILodica
+[MIDI Goblin]: https://www.midigoblin.com
 [Mimu Gloves]: https://mimugloves.com
 [Morph]: https://sensel.com/pages/the-sensel-morph
 [MPE]: https://roli.com/mpe
 [MPK Mini]: https://www.akaipro.com/mpk-mini-mk3/
 [Neova]: https://web.archive.org/web/20231211070850/https://www.enhancia.co/
 [NuEVI]: https://berglundinstruments.com/products/
+[NuRAD]: https://berglundinstruments.com/nurad-ewi-sax-etc-fingering-instrument/
 [Open Woodwind Project]:
   https://hackaday.io/project/2992-the-open-woodwind-project
 [OpenDeck]: https://shanteacontrols.com
 [QuNexus]: https://web.archive.org/web/20241106143831/https://www.musekinetics.com/products/qunexus/
+[RokoTMIDI]: https://www.rokotmidi.com/
 [ROLI Blocks]: https://roli.com/eu/product/collection/create
 [Striso]: https://www.striso.org
 [XVI Desktop]:
