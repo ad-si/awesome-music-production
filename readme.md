@@ -46,38 +46,38 @@ A curated list of software, hardware, and other resources to create music.
 
 ### Audio Workstations
 
-- [Ableton]
-- [ACID] - A DAW known for its loop-based music creation.
+- [Ableton] $
+- [ACID] - A DAW known for its loop-based music creation. $
 - [Ardour]
-- [Bitwig]
+- [Bitwig] $
 - [Cakewalk] - Free, full-featured DAW by BandLab for Windows.
-- [Cubase]
-- [Digital Performer] - DAW with deep MIDI editing and notation by MOTU.
+- [Cubase] $
+- [Digital Performer] - DAW with deep MIDI editing and notation by MOTU. $
 - [FamiStudio] - Simple music editor for the Nintendo Entertainment System.
-- [FL Studio] - A complete software music production environment.
+- [FL Studio] - A complete software music production environment. $
 - [Garage Band]
 - [Giada] - Minimal audio tool for DJs, live performers and musicians.
 - [GridSound] - Free online DAW implemented with the Web Audio API.
 - [Helio] - Libre music composition software.
 - [LMMS] - Comprehensive open source, cross platform DAW.
-- [Logic Pro X]
-- [Lovely Composer] - Chiptune music creation tool inspired by Mario Paint.
+- [Logic Pro X] $
+- [Lovely Composer] - Chiptune music creation tool inspired by Mario Paint. $
 - [Meadowlark] - Open-source, cross platform DAW.
 - [MilkyTracker] - Open source, multi-platform music application
     in the tradition of Fasttracker II.
-- [Mixcraft] - DAW software for Windows.
-- [Pro Tools]
+- [Mixcraft] - DAW software for Windows. $
+- [Pro Tools] $
 - [Radium] - Tracker-like music editor with additional GUI controls.
-- [Reaper] - Complete digital audio production app for Windows and macOS.
-- [Reason] - DAW with a rack of virtual instruments and effects emulating real hardware.
-- [Remixlive] - A dynamic music creation tool that lets you play loops and sounds.
-- [Renoise] - Complete, multi-platform DAW with a music-tracker based approach.
-- [Rytmik Studio] - Music creation software.
+- [Reaper] - Complete digital audio production app for Windows and macOS. $
+- [Reason] - DAW with a rack of virtual instruments and effects emulating real hardware. $
+- [Remixlive] - A dynamic music creation tool that lets you play loops and sounds. $
+- [Renoise] - Complete, multi-platform DAW with a music-tracker based approach. $
+- [Rytmik Studio] - Music creation software. $
 - [Stargate DAW] - All-in-one DAW and plugin suite for Windows, macOS and Linux.
-- [Studio One Pro] - Complete DAW and live show sequencing.
+- [Studio One Pro] - Complete DAW and live show sequencing. $
 - [SunVox] - Small, fast, modular synthesizer with a pattern-based tracker.
 - [TuneFlow] - Free, AI-powered DAW that provides lyrics/music generation, stem separation, MIDI transcription, as well as full editing and mixing capabilities.
-- [Waveform Pro] - A DAW designed for the needs of modern music producers.
+- [Waveform Pro] - A DAW designed for the needs of modern music producers. $
 - [Zrythm] - Cross-platform DAW.
 
 [Ableton]: https://www.ableton.com/en/live/
@@ -279,7 +279,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Regency] - Multi-tiered phase distortion system.
 - [SAW] - A simple synthesizer with a clean UI and straightforward functionality.
 - [Soraboy VST] - Free Game Boy-style chiptune VST3 synth.
-- [Substation for VCV Rack] - Polyrhythmic, subharmonic synthesis toolkit for [VCV Rack].
+- [Substation for VCV Rack] - Polyrhythmic, subharmonic synthesis toolkit for [VCV Rack]. $
 - [Surge Synthesizer] - Open source digital synthesizer.
 - [Yoshimi] - Software audio synthesizer.
 
@@ -301,43 +301,43 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 ### Apps
 
-- [1BITDRAGON] - Easy, approachable music creation tool with 200+ instruments and drum samples.
+- [1BITDRAGON] - Easy, approachable music creation tool with 200+ instruments and drum samples. $
 - [Agordejo] - Music production session manager.
-- [Auxy] - Modern instruments for mobile creators.
-- [Captain Plugins] - Suite of plugins for chord progressions, melodies, basslines, and beats by Mixed In Key.
+- [Auxy] - Modern instruments for mobile creators. $
+- [Captain Plugins] - Suite of plugins for chord progressions, melodies, basslines, and beats by Mixed In Key. $
 - [ChipTone] - Free tool for generating sound effects.
 - [Claude AI Music Skills] - Claude Code plugin for AI-assisted album production
   including lyrics, style prompts, per-stem mixing, mastering,
   and release management.
-- [Composer's Sketchpad] - Sequencer that combines musical staff paper with an artist's sketchbook (iOS only).
+- [Composer's Sketchpad] - Sequencer that combines musical staff paper with an artist's sketchbook (iOS only). $
 - [Dragonfly Reverb] - Open source audio effects for Linux, macOS, and Windows.
 - [Fluajho] - Simple SF2 soundfont host and player for Linux.
 - [FreeEQ8] - Free, open-source 8-band parametric EQ plugin (VST3/AU) for macOS and Windows.
-- [Graillon] - Vocal pitch correction, formant shifting, and live voice changing plugin (VST3/AU/AAX/LV2).
-- [Grip] - Hands-free voice & remote control for Ableton Live workflow.
+- [Graillon] - Vocal pitch correction, formant shifting, and live voice changing plugin (VST3/AU/AAX/LV2). $
+- [Grip] - Hands-free voice & remote control for Ableton Live workflow. $
 - [IXI Programs] - Apps for creating musical instruments and environments.
 - [JJazzLab] - Easily generate dynamic backing tracks for any song.
 - [Konfyt] - Digital keyboard workstation for Linux.
 - [KXStudio] - Collection of applications and plugins for audio production.
 - [Laborejo] - MIDI sequencer based on classical music notation.
 - [Luna] - MIDI sequencer.
-- [Max] - Visual programming language for music and multimedia creation.
-- [Melodics] - Desktop app to teach playing MIDI keyboards, pads, and e-drums.
+- [Max] - Visual programming language for music and multimedia creation. $
+- [Melodics] - Desktop app to teach playing MIDI keyboards, pads, and e-drums. $
 - [MIDI Tapper] - Shape music performances with multi-touch gestures.
 - [Midica] - Music programming language and desktop app for MIDI generation.
-- [Nimble Kick] - Sampler plugin specialized for pitching hardstyle kicks (VST3/AU).
+- [Nimble Kick] - Sampler plugin specialized for pitching hardstyle kicks (VST3/AU). $
 - [Ninjas 2] - Sample slicer audio plugin and standalone app.
-- [Orb Producer Suite] - Suite of AI-assisted plugins for generating melodies, basslines, chords, and arpeggios.
+- [Orb Producer Suite] - Suite of AI-assisted plugins for generating melodies, basslines, chords, and arpeggios. $
 - [Ossia Score] - Sequencer for audio-visual and interactive shows.
 - [Patroneo] - Simple pattern based midi sequencer.
 - [Polyphone] - A soundfont editor for quickly designing musical instruments.
-- [Samplr] - Multi-touch music making app for iPad.
+- [Samplr] - Multi-touch music making app for iPad. $
 - [SeekMIDI] - Graphical multi channel MIDI sequencer.
 - [Seq24] - Minimal loop based midi sequencer.
 - [Sonic Visualiser] - Visualize, analyze, and annotate music audio recordings.
 - [SpectralHarp] - Strum the sound spectrum to create strange sounds (VST3/AU/standalone).
 - [Spire] - iOS multitrack recording app with FX & mixing features.
-- [Transcribe!] - App to help transcribe recorded music.
+- [Transcribe!] - App to help transcribe recorded music. $
 - [Ultimate Vocal Remover] - AI-powered vocal remover.
 
 [1BITDRAGON]: https://1bitdragon.itch.io/1bitdragon
@@ -399,7 +399,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Djenerator] - A metal breakdown generator.
 - [Frequency Explorer] - A microtonal additive synthesizer + sequencer
 - [Funklet] - Drum machine and library of famous drum patterns.
-- [Hookpad] - Songwriting tool from Hooktheory with chord, melody, and theory assistance built on the TheoryTab database.
+- [Hookpad] - Songwriting tool from Hooktheory with chord, melody, and theory assistance built on the TheoryTab database. $
 - [Keithwhor.com/music] - Musical Keyboard - JS Dynamic Audio Synth.
 - [Klank] - Sound and animation in the browser using PureScript.
 - [Lissajous] - A tool for programmatic audio performance in the browser.
@@ -421,8 +421,8 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Scale Explorer] - Visual scale explorer.
 - [Share a Tune] - Play polyphonic ABC scores in the browser and share them.
 - [Song Maker] - Simple step sequencer.
-- [Sononym] - Visual sample browser.
-- [Splice] - Music creation and collaboration platform.
+- [Sononym] - Visual sample browser. $
+- [Splice] - Music creation and collaboration platform. $
 - [stagedings] - An UI and API for mididings
 - [SuperCollider] - Platform for audio synthesis and algorithmic composition.
 - [Synth Time] - Simple synthesizer.
@@ -495,8 +495,8 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 ### SaaS
 
-- [Landr] - Automatic audio mastering.
-- [Virtu] - Assisted mastering.
+- [Landr] - Automatic audio mastering. $
+- [Virtu] - Assisted mastering. $
 
 [Landr]: https://www.landr.com
 [Virtu]: https://virtu.slatedigital.com
@@ -504,14 +504,14 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 ### Virtual Reality
 
-- [Block Rocking Beats] - Play with music in a virtual sound studio.
-- [Electronauts] - DJ simulation with 8 digital instruments.
-- [Exa] - The infinite instrument.
-- [Lyra VR] - Room scale music creation app.
-- [Modulia Studio] - App for music creation and performance.
-- [Paradiddle] - Virtual reality drum kit.
+- [Block Rocking Beats] - Play with music in a virtual sound studio. $
+- [Electronauts] - DJ simulation with 8 digital instruments. $
+- [Exa] - The infinite instrument. $
+- [Lyra VR] - Room scale music creation app. $
+- [Modulia Studio] - App for music creation and performance. $
+- [Paradiddle] - Virtual reality drum kit. $
 - [SoundStage] - Music sandbox built specifically for room-scale VR.
-- [Synthspace] - Modular synth VR environment.
+- [Synthspace] - Modular synth VR environment. $
 
 [Block Rocking Beats]: https://www.blockrockingbeats.com/
 [Electronauts]: https://survios.com/electronauts/
@@ -557,14 +557,14 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 ### AI Music Creation
 
-- [ILLUGEN] - AI-powered text-to-sample engine.
-- [LAIVE]
+- [ILLUGEN] - AI-powered text-to-sample engine. $
+- [LAIVE] $
 - [LatentScore Live] - Generate ambient music from text in the browser.
-- [MemoTune] - Transform text or lyrics into full songs with AI vocals.
-- [OBSIDIAN Neural] - Real-time AI loop generation VST3 plugin for live performance with MIDI triggering.
+- [MemoTune] - Transform text or lyrics into full songs with AI vocals. $
+- [OBSIDIAN Neural] - Real-time AI loop generation VST3 plugin for live performance with MIDI triggering. $
 - [Omnizart] - Transcribe vocals, drums, chords, beats, and more.
 - [Splash] - AI-powered music creation platform.
-- [Suno AI] - AI-powered music composition and production platform.
+- [Suno AI] - AI-powered music composition and production platform. $
 
 [ILLUGEN]: https://www.waves.com/illugen
 [LAIVE]: https://www.laive.io
@@ -580,14 +580,14 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 - [Amuse]
 - [BandCamp]
-- [DistroKid]
-- [DittoMusic]
+- [DistroKid] $
+- [DittoMusic] $
 - [MDIIO]
-- [Octiive]
-- [RecordJet]
+- [Octiive] $
+- [RecordJet] $
 - [ReverbNation]
 - [SoundCloud]
-- [TuneCore]
+- [TuneCore] $
 
 [Amuse]: https://www.amuse.io/en/
 [BandCamp]: https://bandcamp.com
@@ -603,7 +603,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 ### Music Promotion
 
-- [SubmitHub] - Submit your music to bloggers and curators.
+- [SubmitHub] - Submit your music to bloggers and curators. $
 
 [SubmitHub]: https://www.submithub.com
 
@@ -612,9 +612,9 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 - [BigSoundBank] - 2800+ Free and Royalty Free Sounds
 - [Musical Artifacts] - A place for sharing and preserving sound and music related software, samples, presets and more.
-- [PremiumBeat] - Curated, high-quality music and sound effects.
-- [Soundstripe] - Royalty-free music and sound effects for video.
-- [Splice] - Royalty-free samples, one-shots, loops, MIDI, and presets.
+- [PremiumBeat] - Curated, high-quality music and sound effects. $
+- [Soundstripe] - Royalty-free music and sound effects for video. $
+- [Splice] - Royalty-free samples, one-shots, loops, MIDI, and presets. $
 
 [BigSoundBank]: https://bigsoundbank.com/
 [Musical Artifacts]: https://musical-artifacts.com/
@@ -645,13 +645,13 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 ### Synthesizers
 
-- [dadamachines] - Toolkit to create automated analog sounds.
-- [LittleBits Electronic Music Inventor Kit]
-- [Modal 002R] - 8 or 12 voice digital/analogue hybrid 3U rack.
+- [dadamachines] - Toolkit to create automated analog sounds. $
+- [LittleBits Electronic Music Inventor Kit] $
+- [Modal 002R] - 8 or 12 voice digital/analogue hybrid 3U rack. $
 - [OP-1] - A powerful portable music workstation. with sampler,
-    multi-track support, and onboard synth generation.
-- [Organelle] - Intuitive controls with a powerful and flexible sound engine.
-- [Pocket Operators] - Tiny, low-cost digital instruments.
+    multi-track support, and onboard synth generation. $
+- [Organelle] - Intuitive controls with a powerful and flexible sound engine. $
+- [Pocket Operators] - Tiny, low-cost digital instruments. $
 - [ZynAddSubFX] - Polyphonic fully featured musical software synthesizer.
 - [Zynthian] - Open hardware swiss army knife of synthesis,
     equipped with multiple engines, filters and effects.
@@ -669,38 +669,38 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 ### MIDI Controllers
 
-- [Artiphon] - Guitar like MPE controller.
-- [ATEMP MB1] - Button accordion-shaped MIDI controller with DIN-5 and USB MIDI output.
-- [Bela] - Computing platform for creating responsive interactive applications.
-- [C-Thru Music Axis] - Hexagonal and harmonic table based controller.
-- [Continuum Fingerboard] - Linear piano like MPE playing surface.
-- [Digital Accordina] - Compact solo electronic wind instrument and MIDI controller with breath control and onboard effects.
-- [Digital Flex Accordion] - Portable digital accordion with dual keyboards, breath control, and onboard sounds.
+- [Artiphon] - Guitar like MPE controller. $
+- [ATEMP MB1] - Button accordion-shaped MIDI controller with DIN-5 and USB MIDI output. $
+- [Bela] - Computing platform for creating responsive interactive applications. $
+- [C-Thru Music Axis] - Hexagonal and harmonic table based controller. $
+- [Continuum Fingerboard] - Linear piano like MPE playing surface. $
+- [Digital Accordina] - Compact solo electronic wind instrument and MIDI controller with breath control and onboard effects. $
+- [Digital Flex Accordion] - Portable digital accordion with dual keyboards, breath control, and onboard sounds. $
 - [DIY Controller] - DIY midi controller with simple buttons.
-- [Dodeka Stellar] - Linear and isomorphic MIDI keyboard.
-- [dualo du-touch] - Accordion like controller with hexagonal pads.
-- [Eigenharp] - Grid, breath pipe, and touch strip enabled MPE instrument.
-- [Erea Touch] - Seamless polyphonic MIDI Controller with LED touch surface.
+- [Dodeka Stellar] - Linear and isomorphic MIDI keyboard. $
+- [dualo du-touch] - Accordion like controller with hexagonal pads. $
+- [Eigenharp] - Grid, breath pipe, and touch strip enabled MPE instrument. $
+- [Erea Touch] - Seamless polyphonic MIDI Controller with LED touch surface. $
 - [Haxophone] - Electronic musical instrument resembling a Saxophone.
-- [Joué] - Expressive and modular MPE controller.
-- [LinnStrument] - Grid based expressive [MPE] controller.
-- [Lumatone] - Hexagonal isomorphic keyboard.
-- [MIDI Button Keyboard] - 5-row chromatic button accordion-style MIDI controller with built-in sounds and speakers.
+- [Joué] - Expressive and modular MPE controller. $
+- [LinnStrument] - Grid based expressive [MPE] controller. $
+- [Lumatone] - Hexagonal isomorphic keyboard. $
+- [MIDI Button Keyboard] - 5-row chromatic button accordion-style MIDI controller with built-in sounds and speakers. $
 - [MIDILodica] - Breath-controlled, 3D printed, open-source MIDI device.
-- [MIDI Goblin] - Hardware MIDI tool and patch librarian with arpeggiator, step sequencer, LFO, and auto-chord features.
-- [Mimu Gloves] - Expressive wearable musical instrument.
-- [Morph] - Expressive MPE touch controller with swappable hardware interfaces.
-- [MPK mini] - Cheap and functional mini keyboard controller.
-- [Neova] - Expressive finger ring.
-- [NuEVI] - Electronic valve instrument MIDI controller.
-- [NuRAD] - Digital wind controller with EWI, sax, and EVI fingering options.
+- [MIDI Goblin] - Hardware MIDI tool and patch librarian with arpeggiator, step sequencer, LFO, and auto-chord features. $
+- [Mimu Gloves] - Expressive wearable musical instrument. $
+- [Morph] - Expressive MPE touch controller with swappable hardware interfaces. $
+- [MPK mini] - Cheap and functional mini keyboard controller. $
+- [Neova] - Expressive finger ring. $
+- [NuEVI] - Electronic valve instrument MIDI controller. $
+- [NuRAD] - Digital wind controller with EWI, sax, and EVI fingering options. $
 - [Open Woodwind Project] - Electronic aerophone.
 - [OpenDeck] - Hardware platform to build custom MIDI controllers.
-- [QuNexus] - Small and portable MPE keyboard.
-- [RokoTMIDI] - Minimal button accordion MIDI controller with USB-C, DIN MIDI, and Bluetooth.
-- [ROLI Blocks] - Portable snap-together MIDI controller with both desktop and mobile interfaces.
-- [Striso] - Expressive MPE controller with a grid-based layout.
-- [XVI Desktop] - USB 16 Channel Fader Bank with CV, I2C, and MIDI.
+- [QuNexus] - Small and portable MPE keyboard. $
+- [RokoTMIDI] - Minimal button accordion MIDI controller with USB-C, DIN MIDI, and Bluetooth. $
+- [ROLI Blocks] - Portable snap-together MIDI controller with both desktop and mobile interfaces. $
+- [Striso] - Expressive MPE controller with a grid-based layout. $
+- [XVI Desktop] - USB 16 Channel Fader Bank with CV, I2C, and MIDI. $
 
 [Artiphon]: https://www.artiphon.com/
 [ATEMP MB1]: https://atemp.ru/en/products/atemp_mb1.html
@@ -741,19 +741,19 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 ### Instruments
 
-- [Chapman Stick] - 8, 10, or 12 string fret-board tapping instrument.
-- [Harpejji] - Electric stringed musical instrument.
-- [Karlax] - Multi sensor expressive Clarinet like instrument.
-- [Keytam] - Tunable guitar-tambourine hybrid.
-- [LAVA Guitar] - Acoustic realism and effects in a portable guitar.
+- [Chapman Stick] - 8, 10, or 12 string fret-board tapping instrument. $
+- [Harpejji] - Electric stringed musical instrument. $
+- [Karlax] - Multi sensor expressive Clarinet like instrument. $
+- [Keytam] - Tunable guitar-tambourine hybrid. $
+- [LAVA Guitar] - Acoustic realism and effects in a portable guitar. $
 - [Musical Instrument Challenge][inst-challenge] - List of DIY instruments.
-- [Nux Mighty Plug Pro] - Amplifier tones and effects in a compact device.
-- [Orba] - Ball shaped, hand sized musical instrument.
+- [Nux Mighty Plug Pro] - Amplifier tones and effects in a compact device. $
+- [Orba] - Ball shaped, hand sized musical instrument. $
 - [OTTO] - Sampler, sequencer, multi-engine synth and effects in a box.
-- [Oxi One] - Portable grid-based sequencer and synthesizer.
-- [Pocket Piano] - Piano and a wide range of sounds in a compact design.
-- [PocketDrum] - Electronic drums in your hands, anytime, anywhere.
-- [Travel Sax 2] - Authentic saxophone vibes with MIDI for exploring new musical horizons.
+- [Oxi One] - Portable grid-based sequencer and synthesizer. $
+- [Pocket Piano] - Piano and a wide range of sounds in a compact design. $
+- [PocketDrum] - Electronic drums in your hands, anytime, anywhere. $
+- [Travel Sax 2] - Authentic saxophone vibes with MIDI for exploring new musical horizons. $
 
 [Chapman Stick]: https://stick.com/
 [Harpejji]: https://www.marcodi.com/products
@@ -772,7 +772,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 ### Workstations
 
-- [Polyend Tracker] - Compact standalone workstation with a tracker UI.
+- [Polyend Tracker] - Compact standalone workstation with a tracker UI. $
 
 [Polyend Tracker]: https://polyend.com/tracker/
 
