@@ -46,27 +46,27 @@ A curated list of software, hardware, and other resources to create music.
 
 ### Audio Workstations
 
-- [Ableton] $
+- [Ableton] - DAW with a Session View for clip-based live performance and improvisation. $
 - [ACID] - A DAW known for its loop-based music creation. $
-- [Ardour]
-- [Bitwig] $
+- [Ardour] - Open source, cross platform DAW for recording, editing and mixing.
+- [Bitwig] - Modular DAW for production and performance with extensive modulation. $
 - [Cakewalk] - Free, full-featured DAW by BandLab for Windows.
-- [Cubase] $
+- [Cubase] - Full-featured DAW for recording, editing and mixing by Steinberg. $
 - [Digital Performer] - DAW with deep MIDI editing and notation by MOTU. $
 - [FamiStudio] - Simple music editor for the Nintendo Entertainment System.
 - [FL Studio] - A complete software music production environment. $
-- [Garage Band]
+- [Garage Band] - Free DAW for macOS and iOS with built-in instruments and lessons.
 - [Giada] - Minimal audio tool for DJs, live performers and musicians.
 - [GridSound] - Free online DAW implemented with the Web Audio API.
 - [Helio] - Libre music composition software.
 - [LMMS] - Comprehensive open source, cross platform DAW.
-- [Logic Pro X] $
+- [Logic Pro X] - Professional DAW for macOS with a large collection of instruments and effects. $
 - [Lovely Composer] - Chiptune music creation tool inspired by Mario Paint. $
 - [Meadowlark] - Open-source, cross platform DAW.
 - [MilkyTracker] - Open source, multi-platform music application
     in the tradition of Fasttracker II.
 - [Mixcraft] - DAW software for Windows. $
-- [Pro Tools] $
+- [Pro Tools] - Industry-standard DAW for recording, editing and mixing by Avid. $
 - [Radium] - Tracker-like music editor with additional GUI controls.
 - [Reaper] - Complete digital audio production app for Windows and macOS. $
 - [Reason] - DAW with a rack of virtual instruments and effects emulating real hardware. $
