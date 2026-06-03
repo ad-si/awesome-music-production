@@ -496,9 +496,11 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 ### SaaS
 
 - [Landr] - Automatic audio mastering. $
+- [The Mix Medic] - In-browser AI mastering with reference matching. $
 - [Virtu] - Assisted mastering. $
 
 [Landr]: https://www.landr.com
+[The Mix Medic]: https://themixmedic.com
 [Virtu]: https://virtu.slatedigital.com
 
 
