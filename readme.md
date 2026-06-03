@@ -176,6 +176,7 @@ A curated list of software, hardware, and other resources to create music.
 - [Verovio] - Music notation engraving library.
 - [Vexwarp] - JavaSCript library for audio time stretching and pitch shifting.
 - [Vivid] - High quality audio in Haskell with SuperCollider.
+- [xenharmlib] - Python library for xenharmonic music composition.
 
 [Alda]: https://github.com/alda-lang/alda
 [Augmented Audio]: https://github.com/yamadapc/augmented-audio
@@ -237,6 +238,7 @@ A curated list of software, hardware, and other resources to create music.
 [Verovio]: https://www.verovio.org
 [Vexwarp]: https://github.com/0xfe/vexwarp
 [Vivid]: https://hackage.haskell.org/package/vivid
+[xenharmlib]: https://xenharmlib.readthedocs.io/en/latest/index.html
 
 
 ### Live Coding
