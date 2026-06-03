@@ -416,6 +416,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Piano Genie] - Machine learning augmented piano app.
 - [Polska Metronome] - Metronome with irregular beats for Scandinavian folk music.
 - [QuasiMusic] - Quasiperiodic tilings of the plane as sound triggers.
+- [QR9 Audio to MIDI] - Browser-based tool for transcribing audio files into MIDI notes.
 - [Qwerkey] - Keyboard tonnetz.
 - [Reactor] - Online DJ controller connected to SoundCloud.
 - [Repeater Orchestra] - An orchestra of repeaters which repeat the conductor.
@@ -473,6 +474,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Piano Genie]: https://magenta.tensorflow.org/pianogenie
 [Polska Metronome]: https://github.com/newlandsvalley/purescript-polska-metronome
 [QuasiMusic]: https://www.gregegan.net/APPLETS/34/34.html
+[QR9 Audio to MIDI]: https://qr9.net/en/audio-to-midi
 [Qwerkey]: https://some1else.github.io/qwerkey/
 [Reactor]: https://lukeandersen.github.io/reactor/
 [Repeater Orchestra]: https://codepen.io/barefootfunk/pen/ZWoLmo
