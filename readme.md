@@ -333,6 +333,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Ossia Score] - Sequencer for audio-visual and interactive shows.
 - [Patroneo] - Simple pattern based midi sequencer.
 - [Polyphone] - A soundfont editor for quickly designing musical instruments.
+- [Reverie] - Desktop app that transforms audio files into evolving ambient textures and drones (macOS and Windows). $
 - [Samplr] - Multi-touch music making app for iPad. $
 - [SeekMIDI] - Graphical multi channel MIDI sequencer.
 - [Seq24] - Minimal loop based midi sequencer.
@@ -370,6 +371,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Ossia Score]: https://ossia.io
 [Patroneo]: https://laborejo.org/patroneo/
 [Polyphone]: https://www.polyphone.io/
+[Reverie]: https://reverie.parallel-minds.studio
 [Samplr]: http://samplr.net
 [SeekMIDI]: https://oldtechaa.github.io/SeekMIDI/
 [Seq24]: https://filter24.org/seq24/
