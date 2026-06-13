@@ -341,7 +341,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Spire] - iOS multitrack recording app with FX & mixing features.
 - [Transcribe!] - App to help transcribe recorded music. $
 - [Ultimate Vocal Remover] - AI-powered vocal remover.
-
+  
 [1BITDRAGON]: https://1bitdragon.itch.io/1bitdragon
 [Agordejo]: https://laborejo.org/agordejo/
 [Auxy]: https://auxy.co/
@@ -408,6 +408,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Loopjs] - Live Electronic Music Performance Software.
 - [Looplabs] - Cloud based music studio.
 - [Loudness Penalty] - Check how loud your track is and how much it will be penalised by online streaming services.
+- [mdrone] - Microtonal drone instrument that runs in your browser.
 - [mix check studio] - Check your mixes and masters for common issues.
 - [Musical Chord Progression Arpeggiator] - Sketch out musical chord progressions.
 - [MyNoise] - Background noises and interactive soundscapes.
@@ -465,6 +466,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Loopjs]: https://github.com/mmckegg/loop-drop-app
 [Looplabs]: https://www.looplabs.com/
 [Loudness Penalty]: https://www.loudnesspenalty.com/
+[mdrone]: https://mdrone.org
 [mix check studio]: https://mixcheckstudio.roexaudio.com/
 [Musical Chord Progression Arpeggiator]: https://codepen.io/jak_e/pen/qNrZyw
 [MyNoise]: https://mynoise.net/
