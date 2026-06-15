@@ -49,6 +49,7 @@ A curated list of software, hardware, and other resources to create music.
 - [Ableton] - DAW with a Session View for clip-based live performance and improvisation. $
 - [ACID] - A DAW known for its loop-based music creation. $
 - [Ardour] - Open source, cross platform DAW for recording, editing and mixing.
+- [Auwen] - A DAW for live dance music improvisation with visuals & multiplayer on Mac/Windows/Linux. $
 - [Bitwig] - Modular DAW for production and performance with extensive modulation. $
 - [Cakewalk] - Free, full-featured DAW by BandLab for Windows.
 - [Cubase] - Full-featured DAW for recording, editing and mixing by Steinberg. $
@@ -83,6 +84,7 @@ A curated list of software, hardware, and other resources to create music.
 [Ableton]: https://www.ableton.com/en/live/
 [ACID]: https://web.archive.org/web/20231221120049/https://www.magix.com/us/music-editing/acid/
 [Ardour]: https://ardour.org
+[Auwen]: https://www.soniare.net/auwen?f=ad-si-al
 [Bitwig]: https://www.bitwig.com/
 [Cakewalk]: https://www.bandlab.com/products/cakewalk
 [Cubase]: https://www.steinberg.net/cubase/
@@ -243,6 +245,7 @@ A curated list of software, hardware, and other resources to create music.
 
 ### Live Coding
 
+- [Auwen] - A CLI desktop app for improvisation with headphone cueing, visuals, & multiplayer.
 - [Glicol] - Graph-oriented live coding language and music/audio DSP library written in Rust.
 - [Klangmeister] - Live coding environment for the browser.
 - [Line] - CLI MIDI sequencer and language for live coding.
@@ -256,6 +259,7 @@ A curated list of software, hardware, and other resources to create music.
 Find more resources at [Awesome Livecoding] - A curated list of live coding languages and tools.
 
 [Awesome Livecoding]: https://github.com/toplap/awesome-livecoding
+[Auwen]: https://www.soniare.net/auwen?f=ad-si-al
 [Glicol]: https://github.com/chaosprint/glicol
 [Klangmeister]: https://ctford.github.io/klangmeister/
 [Line]: https://github.com/pd3v/line
