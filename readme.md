@@ -434,7 +434,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Tap Tempo] - Free Tap BPM tool that actually syncs with your hardware (Web MIDI).
 - [Vizz.fm] - Browser-based music visualizer with customizable scenes and savable presets.
 - [Web Theremin] - Browser-based theremin instrument.
-- [Tonalux] - Free browser-based audio tools: spectrum analyzer, plugin comparer, and media converter.
+- [Tonalux] - Free, open source (MIT) browser audio tools — spectrum + LUFS/true-peak/BPM/key analyzer, plugin comparer, media converter. [Analyzer source](https://github.com/Exenye/tonalux-analyzer).
 - [Websynths] - Free browser-based microtonal midi instrument.
 - [WhatChord] - Real-time MIDI chord recognition with an explore mode for building chords.
 
