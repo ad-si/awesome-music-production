@@ -533,7 +533,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Chordata] - A dummy chord-book for mandolin, ukulele and guitar.
 - [Fretboard] - Online Guitar fretboard viewer to study scales and chords.
 - [Guitarix] - Virtual guitar amplifier for Linux running on JACK.
-- [GuitarToneAdapt] - Re-dials any famous song's amp and EQ settings for the exact guitar, amp and pickups you own. Free, in the browser.
+- [GuitarToneAdapt] - Re-dial any famous song's amp and EQ settings for the exact guitar, amp, and pickups you own.
 - [Karplus-Strong Guitar] - JavaScript implementation of the Karplus-Strong
     plucked string synthesis algorithm.
 - [SmartGuitarAmp] - Guitar plugin using neural networks
