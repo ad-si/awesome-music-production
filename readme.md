@@ -341,7 +341,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Spire] - iOS multitrack recording app with FX & mixing features.
 - [Transcribe!] - App to help transcribe recorded music. $
 - [Ultimate Vocal Remover] - AI-powered vocal remover.
-  
+
 [1BITDRAGON]: https://1bitdragon.itch.io/1bitdragon
 [Agordejo]: https://laborejo.org/agordejo/
 [Auxy]: https://auxy.co/
