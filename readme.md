@@ -542,6 +542,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
     plucked string synthesis algorithm.
 - [SmartGuitarAmp] - Guitar plugin using neural networks
     to emulate real world hardware.
+- [ToneTwin] - Find the amp, pedal, and EQ settings behind any song and adapt them to your own guitar, amp, and pedals.
 - [UkeGeeks] - Creates fingering diagrams by reading plain text
     or ChordPro ukulele songs.
 - [Ukulele Chord Detector] - Website for identifying chords
@@ -556,6 +557,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [GuitarToneAdapt]: https://guitartoneadapt.com
 [Karplus-Strong Guitar]: https://amid.fish/javascript-karplus-strong
 [SmartGuitarAmp]: https://github.com/GuitarML/SmartGuitarAmp
+[ToneTwin]: https://tone-twin.com
 [UkeGeeks]: https://github.com/buzcarter/UkeGeeks
 [Ukulele Chord Detector]: https://ukealong.com/tool/chord-detector/
 [Ukulele Chord Finder]:
