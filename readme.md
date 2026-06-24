@@ -96,7 +96,7 @@ A curated list of software, hardware, and other resources to create music.
 [LMMS]: https://lmms.io/
 [Logic Pro X]: https://www.apple.com/logic-pro/
 [Lovely Composer]: https://1oogames.itch.io/lovely-composer
-[Meadowlark]: https://github.com/MeadowlarkDAW
+[Meadowlark]: https://codeberg.org/Meadowlark/Medowlark
 [MilkyTracker]: https://milkytracker.org/
 [Mixcraft]: https://acoustica.com/products/mixcraft
 [Pro Tools]: https://www.avid.com/pro-tools
