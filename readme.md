@@ -438,6 +438,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Vizz.fm] - Browser-based music visualizer with customizable scenes and savable presets.
 - [Web Theremin] - Browser-based theremin instrument.
 - [Tonalux] - Free browser-based audio tools: spectrum analyzer, plugin comparer, and media converter.
+- [Track Finder] - Paste a tracklist or YouTube playlist URL and get per-track search links on SoundCloud, Spotify, YouTube, Apple Music, and Beatport.
 - [Websynths] - Free browser-based microtonal midi instrument.
 - [WhatChord] - Real-time MIDI chord recognition with an explore mode for building chords.
 
@@ -493,6 +494,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [TimeStretch]: https://29a.ch/timestretch/
 [Tap Tempo]: https://tapbpmhub.com/
 [Tonalux]: https://tonalux.org
+[Track Finder]: https://track-finder.vercel.app
 [Vizz.fm]: https://vizz.fm
 [Web Theremin]: https://hat-and-beard.itch.io/web-theremin
 [Websynths]: https://www.websynths.com/
