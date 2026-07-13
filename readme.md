@@ -312,6 +312,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
   including lyrics, style prompts, per-stem mixing, mastering,
   and release management.
 - [Composer's Sketchpad] - Sequencer that combines musical staff paper with an artist's sketchbook (iOS only). $
+- [DubCheck] - Audio QC that checks audiobooks, podcasts, and mixes against loudness delivery specs like ACX, EBU R128, and Netflix (macOS). $
 - [Dragonfly Reverb] - Open source audio effects for Linux, macOS, and Windows.
 - [Fluajho] - Simple SF2 soundfont host and player for Linux.
 - [FreeEQ8] - Free, open-source 8-band parametric EQ plugin (VST3/AU) for macOS and Windows.
@@ -350,6 +351,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [ChipTone]: https://sfbgames.itch.io/chiptone
 [Claude AI Music Skills]: https://github.com/bitwize-music-studio/claude-ai-music-skills
 [Composer's Sketchpad]: http://composerssketchpad.com
+[DubCheck]: https://audio-dubcheck.com
 [Dragonfly Reverb]: https://github.com/michaelwillis/dragonfly-reverb
 [Fluajho]: https://laborejo.org/documentation/fluajho/english.html
 [FreeEQ8]: https://github.com/GareBear99/FreeEQ8
