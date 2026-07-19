@@ -753,6 +753,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 - [Chapman Stick] - 8, 10, or 12 string fret-board tapping instrument. $
 - [Harpejji] - Electric stringed musical instrument. $
+- [Jamcorder] - Tiny device that attaches to a digital piano to automatically capture everything you play as MIDI. $
 - [Karlax] - Multi sensor expressive Clarinet like instrument. $
 - [Keytam] - Tunable guitar-tambourine hybrid. $
 - [LAVA Guitar] - Acoustic realism and effects in a portable guitar. $
@@ -768,6 +769,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Chapman Stick]: https://stick.com/
 [Harpejji]: https://www.marcodi.com/products
 [inst-challenge]: https://hackaday.io/submissions/prize2018_instrument/list
+[Jamcorder]: https://jamcorder.com/
 [Karlax]: http://www.dafact.com
 [Keytam]: https://www.keytam.fr/
 [LAVA Guitar]: https://www.lavamusic.com
