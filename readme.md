@@ -503,10 +503,12 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 - [Landr] - Automatic audio mastering. $
 - [The Mix Medic] - In-browser AI mastering with reference matching. $
+- [Toggle Studio] - AI vocal and beat mixing/mastering, credit-based pricing. $
 - [Virtu] - Assisted mastering. $
 
 [Landr]: https://www.landr.com
 [The Mix Medic]: https://themixmedic.com
+[Toggle Studio]: https://toggle.town/studio
 [Virtu]: https://virtu.slatedigital.com
 
 
