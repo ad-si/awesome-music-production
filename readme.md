@@ -422,6 +422,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Qwerkey] - Keyboard tonnetz.
 - [Reactor] - Online DJ controller connected to SoundCloud.
 - [Repeater Orchestra] - An orchestra of repeaters which repeat the conductor.
+- [Reverse Audio Tool] - Reverse audio entirely in the browser. No upload — files stay on-device. Export as WAV.
 - [Roland 50 Studio] - Online playground with emulations of classic Roland devices.
 - [Scale Explorer] - Visual scale explorer.
 - [Share a Tune] - Play polyphonic ABC scores in the browser and share them.
@@ -480,6 +481,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Qwerkey]: https://some1else.github.io/qwerkey/
 [Reactor]: https://lukeandersen.github.io/reactor/
 [Repeater Orchestra]: https://codepen.io/barefootfunk/pen/ZWoLmo
+[Reverse Audio Tool]: https://reverseaudiotool.com/
 [Roland 50 Studio]: https://roland50.studio
 [Scale Explorer]: https://www.frazierpianostudio.com/resources/scale-explorer/
 [Share a Tune]: https://github.com/newlandsvalley/share-a-tune
