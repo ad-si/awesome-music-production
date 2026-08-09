@@ -818,6 +818,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Music Theory] - The exciting universe of music theory.
 - [muted.io] - Interactive music theory tools and visual references.
 - [SFZ Format] - Main reference for creating instruments with the SFZ format.
+- [SongSuey] - Free database of who wrote and produced every song: per-track lyricist, composer, producer and performer credits verified against primary sources.
 - [Sound hacking and music technologies]
 - [Music Production Chips] - Community-managed collection of tips & tricks for music production.
 
@@ -835,6 +836,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Music Theory]: https://ianring.com/musictheory/
 [muted.io]: https://muted.io
 [SFZ Format]: https://sfzformat.com
+[SongSuey]: https://songsuey.com
 [Sound hacking and music technologies]: https://youtu.be/v9uE2nHAGb8
 
 
