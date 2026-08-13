@@ -811,6 +811,8 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Digital Filters Introduction] - Jupyter notebooks
     and a geometric interpretation of digital audio filters.
 - [Frazier Piano Studio] - Blog posts, videos, and apps.
+- [HKeys] - Keyboard shortcut reference and drill for DAWs and other
+    applications, one page per platform, with printable cheat sheets.
 - [Integrated Musicianship] - Free, open-source interactive textbooks for college-level music theory and aural skills courses.
 - [Know Your Theory] - Interactive tutorial to learn theory fundamentals.
 - [Lightnote] - Interactive site for learning the basics of music theory through animations and audio.
@@ -827,6 +829,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Digital Filters Introduction]:
     https://karlhiner.com/jupyter_notebooks/intro_to_digital_filters/
 [Frazier Piano Studio]: https://www.frazierpianostudio.com/
+[HKeys]: https://hkeys.app
 [Integrated Musicianship]: https://intmus.github.io/
 [Know Your Theory]: https://knowyourtheory.com
 [Lightnote]: https://www.lightnote.co/
