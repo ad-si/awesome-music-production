@@ -396,6 +396,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Binary Synth] - Binary file interpreter for audio synthesis.
 - [BlokDust] - Interactive music-making app to build synths and sounds.
 - [Chord Editor] - Edit chord diagrams for guitar, ukulele, and other fretted instruments.
+- [Chord Progression Analyzer] - Detect the key, Roman numerals, and compatible scales from any chord progression — supports slash chords, extended and altered chords.
 - [Chords] - Text based chord progression editor.
 - [Chorushive] - Real-time Spotify lyric display with 8 visual themes and WebGL animated backgrounds.
 - [Circle of 5ths Explorer]
@@ -453,6 +454,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Binary Synth]: https://github.com/MaxAlyokhin/binary-synth
 [BlokDust]: https://github.com/blokdust/blokdust
 [Chord Editor]: https://github.com/newlandsvalley/chord-editor
+[Chord Progression Analyzer]: https://www.cloudatelier.live/tools/chord-analyzer
 [Chords]: https://github.com/evashort/chords
 [Chorushive]: https://github.com/Greg-RG-GIT/chorushive
 [Circle of 5ths Explorer]:
