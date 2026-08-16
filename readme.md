@@ -570,6 +570,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [ILLUGEN] - AI-powered text-to-sample engine. $
 - [LAIVE] $
 - [LatentScore Live] - Generate ambient music from text in the browser.
+- [Meloro] - Create original songs, instrumentals, and lyrics with AI. $
 - [MemoTune] - Transform text or lyrics into full songs with AI vocals. $
 - [OBSIDIAN Neural] - Real-time AI loop generation VST3 plugin for live performance with MIDI triggering. $
 - [Omnizart] - Transcribe vocals, drums, chords, beats, and more.
@@ -579,6 +580,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [ILLUGEN]: https://www.waves.com/illugen
 [LAIVE]: https://www.laive.io
 [LatentScore Live]: https://latentscore.com
+[Meloro]: https://meloro.ai
 [MemoTune]: https://memotune.com
 [OBSIDIAN Neural]: https://obsidian-neural.com
 [Omnizart]: https://github.com/Music-and-Culture-Technology-Lab/omnizart
