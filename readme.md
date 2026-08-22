@@ -621,12 +621,14 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 ### Sound / Sample Providers
 
 - [BigSoundBank] - 2800+ Free and Royalty Free Sounds
+- [mikroconsult Essential UI] - Twelve original 44.1 kHz WAV interface clicks. Free checkout, commercial use allowed.
 - [Musical Artifacts] - A place for sharing and preserving sound and music related software, samples, presets and more.
 - [PremiumBeat] - Curated, high-quality music and sound effects. $
 - [Soundstripe] - Royalty-free music and sound effects for video. $
 - [Splice] - Royalty-free samples, one-shots, loops, MIDI, and presets. $
 
 [BigSoundBank]: https://bigsoundbank.com/
+[mikroconsult Essential UI]: https://mikroconsult.gumroad.com/l/free-ui-sounds
 [Musical Artifacts]: https://musical-artifacts.com/
 [PremiumBeat]: https://www.premiumbeat.com
 [Soundstripe]: https://www.soundstripe.com
