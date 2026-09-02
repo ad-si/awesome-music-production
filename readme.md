@@ -433,6 +433,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Synth Time] - Simple synthesizer.
 - [Synthi-JS] - A JavaScript emulator of the legendary EMS Synthi A synthesizer.
 - [SongFromLink] - Identify background music from TikTok, YouTube Shorts, Instagram Reels, X, and Facebook Reels video links
+- [SongFinder](https://songfinder.tech) \- Identify any songs from YouTube, TikTok, Instagram & Facebook video links, uploaded audio clips, or typed lyrics. 100% Free, unlimited, no signup.
 - [TimeStretch] - Online tool to loop, speed up, slow down, and pitch shift sections of an audio file.
 - [Tap Tempo] - Free Tap BPM tool that actually syncs with your hardware (Web MIDI).
 - [Vizz.fm] - Browser-based music visualizer with customizable scenes and savable presets.
