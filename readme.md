@@ -331,6 +331,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Ninjas 2] - Sample slicer audio plugin and standalone app.
 - [Orb Producer Suite] - Suite of AI-assisted plugins for generating melodies, basslines, chords, and arpeggios. $
 - [Ossia Score] - Sequencer for audio-visual and interactive shows.
+- [Pakku] - Free, open-source multiband transient shaper for macOS and Windows (VST3/AU).
 - [Patroneo] - Simple pattern based midi sequencer.
 - [Polyphone] - A soundfont editor for quickly designing musical instruments.
 - [Reverie] - Desktop app that transforms audio files into evolving ambient textures and drones (macOS and Windows). $
@@ -369,6 +370,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Ninjas 2]: https://github.com/clearly-broken-software/ninjas2
 [Orb Producer Suite]: https://www.landr.com/plugins/landr-composer
 [Ossia Score]: https://ossia.io
+[Pakku]: https://danielalves96.github.io/pakku-vst/
 [Patroneo]: https://laborejo.org/patroneo/
 [Polyphone]: https://www.polyphone.io/
 [Reverie]: https://reverie.parallel-minds.studio
