@@ -395,6 +395,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [beatboxer] - Simple drum machine.
 - [Binary Synth] - Binary file interpreter for audio synthesis.
 - [BlokDust] - Interactive music-making app to build synths and sounds.
+- [BPM Finder] - Free online tool to detect tempo, key, meter, and beat positions of any audio file.
 - [Chord Editor] - Edit chord diagrams for guitar, ukulele, and other fretted instruments.
 - [Chords] - Text based chord progression editor.
 - [Chorushive] - Real-time Spotify lyric display with 8 visual themes and WebGL animated backgrounds.
@@ -452,6 +453,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [beatboxer]: https://sig.gy/beatboxer/
 [Binary Synth]: https://github.com/MaxAlyokhin/binary-synth
 [BlokDust]: https://github.com/blokdust/blokdust
+[BPM Finder]: https://bpmfinder.io/
 [Chord Editor]: https://github.com/newlandsvalley/chord-editor
 [Chords]: https://github.com/evashort/chords
 [Chorushive]: https://github.com/Greg-RG-GIT/chorushive
