@@ -542,6 +542,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
     plucked string synthesis algorithm.
 - [SmartGuitarAmp] - Guitar plugin using neural networks
     to emulate real world hardware.
+- [Tonecrafted Fretboard] - Free browser fretboard trainer covering 120 scale/root combinations with correct enharmonic spelling and a note-by-note interval breakdown.
 - [UkeGeeks] - Creates fingering diagrams by reading plain text
     or ChordPro ukulele songs.
 - [Ukulele Chord Detector] - Website for identifying chords
@@ -556,6 +557,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [GuitarToneAdapt]: https://guitartoneadapt.com
 [Karplus-Strong Guitar]: https://amid.fish/javascript-karplus-strong
 [SmartGuitarAmp]: https://github.com/GuitarML/SmartGuitarAmp
+[Tonecrafted Fretboard]: https://fretboard.tonecrafted.com
 [UkeGeeks]: https://github.com/buzcarter/UkeGeeks
 [Ukulele Chord Detector]: https://ukealong.com/tool/chord-detector/
 [Ukulele Chord Finder]:
