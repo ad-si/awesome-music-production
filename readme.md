@@ -393,6 +393,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Baroque Dances] - Procedurally generated classical music.
 - [Beat Push] - Online music production with built-in parallel drum and synth machine.
 - [beatboxer] - Simple drum machine.
+- [BPM Tapper] - Measure tempo by tapping or by analyzing a locally selected audio file in the browser.
 - [Binary Synth] - Binary file interpreter for audio synthesis.
 - [BlokDust] - Interactive music-making app to build synths and sounds.
 - [Chord Editor] - Edit chord diagrams for guitar, ukulele, and other fretted instruments.
@@ -449,6 +450,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Audio Motion Interface]: https://github.com/MaxAlyokhin/audio-motion-interface
 [Baroque Dances]: https://devinrothmusic.com/baroquedances/
 [Beat Push]: https://beatpush.com/
+[BPM Tapper]: https://tapbpmnow.com/
 [beatboxer]: https://sig.gy/beatboxer/
 [Binary Synth]: https://github.com/MaxAlyokhin/binary-synth
 [BlokDust]: https://github.com/blokdust/blokdust
