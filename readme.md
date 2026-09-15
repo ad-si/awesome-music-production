@@ -402,6 +402,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Davidic] - Procedural music generator with lockable scale, chords, and rhythm.
 - [Djenerator] - A metal breakdown generator.
 - [Frequency Explorer] - A microtonal additive synthesizer + sequencer
+- [FindKeyBPM] - Free key + BPM finder in the browser.
 - [Funklet] - Drum machine and library of famous drum patterns.
 - [Hookpad] - Songwriting tool from Hooktheory with chord, melody, and theory assistance built on the TheoryTab database. $
 - [Keithwhor.com/music] - Musical Keyboard - JS Dynamic Audio Synth.
@@ -413,6 +414,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [mdrone] - Microtonal drone instrument that runs in your browser.
 - [mix check studio] - Check your mixes and masters for common issues.
 - [Musical Chord Progression Arpeggiator] - Sketch out musical chord progressions.
+- [MyChordFinder] - Free browser chord, scale, and progression finder.
 - [MyNoise] - Background noises and interactive soundscapes.
 - [Opusonix] - Collaborative planning and mix review platform for tracks and albums.
 - [Pata Tracker] - Browser-based chiptune tracker with PSG, FM, and sampler synthesis.
@@ -460,6 +462,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Davidic]: https://bendious.itch.io/davidic
 [Djenerator]: https://djen.co/
 [Frequency Explorer]: https://github.com/ellamenop/frex
+[FindKeyBPM]: https://findkeybpm.com/
 [Funklet]: https://goodhertz.com/funklet/
 [Hookpad]: https://www.hooktheory.com/hookpad
 [Keithwhor.com/music]: https://keithwhor.com/music/
@@ -471,6 +474,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [mdrone]: https://mdrone.org
 [mix check studio]: https://mixcheckstudio.roexaudio.com/
 [Musical Chord Progression Arpeggiator]: https://codepen.io/jak_e/pen/qNrZyw
+[MyChordFinder]: https://mychordfinder.com/
 [MyNoise]: https://mynoise.net/
 [Opusonix]: https://opusonix.com
 [Pata Tracker]: https://pixwlk.itch.io/pata-tracker
