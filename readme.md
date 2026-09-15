@@ -401,8 +401,8 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Circle of 5ths Explorer]
 - [Davidic] - Procedural music generator with lockable scale, chords, and rhythm.
 - [Djenerator] - A metal breakdown generator.
-- [Frequency Explorer] - A microtonal additive synthesizer + sequencer
 - [FindKeyBPM] - Free key + BPM finder in the browser.
+- [Frequency Explorer] - A microtonal additive synthesizer + sequencer
 - [Funklet] - Drum machine and library of famous drum patterns.
 - [Hookpad] - Songwriting tool from Hooktheory with chord, melody, and theory assistance built on the TheoryTab database. $
 - [Keithwhor.com/music] - Musical Keyboard - JS Dynamic Audio Synth.
@@ -461,8 +461,8 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
     https://www.frazierpianostudio.com/resources/circle-of-fifths-explorer/
 [Davidic]: https://bendious.itch.io/davidic
 [Djenerator]: https://djen.co/
-[Frequency Explorer]: https://github.com/ellamenop/frex
 [FindKeyBPM]: https://findkeybpm.com/
+[Frequency Explorer]: https://github.com/ellamenop/frex
 [Funklet]: https://goodhertz.com/funklet/
 [Hookpad]: https://www.hooktheory.com/hookpad
 [Keithwhor.com/music]: https://keithwhor.com/music/
