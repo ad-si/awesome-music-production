@@ -636,9 +636,12 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 ## Datasets
 
 - [Free MIDI Chords] - Collection of free MIDI chords and progressions.
+- [My Chord Finder Music Formulas] - CC0 chord and scale formulas with eight
+  beginner guitar fingerings in JSONL for music-tool developers.
 - [SigSep] - Publicly available datasets for research on source separation.
 
 [Free MIDI Chords]: https://github.com/ldrolez/free-midi-chords
+[My Chord Finder Music Formulas]: https://github.com/muke1838-cloud/mychordfinder-music-data
 [SigSep]: https://sigsep.github.io/
 
 
