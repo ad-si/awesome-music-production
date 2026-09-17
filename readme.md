@@ -418,6 +418,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [mix check studio] - Check your mixes and masters for common issues.
 - [Musical Chord Progression Arpeggiator] - Sketch out musical chord progressions.
 - [MyNoise] - Background noises and interactive soundscapes.
+- [Note Foundry] - Browser-based MP3/WAV to MIDI converter with pitch detection on solo melodies, plus MIDI to MP3 with Web Audio instruments.
 - [Opusonix] - Collaborative planning and mix review platform for tracks and albums.
 - [Pata Tracker] - Browser-based chiptune tracker with PSG, FM, and sampler synthesis.
 - [Piano Genie] - Machine learning augmented piano app.
@@ -477,6 +478,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [mix check studio]: https://mixcheckstudio.roexaudio.com/
 [Musical Chord Progression Arpeggiator]: https://codepen.io/jak_e/pen/qNrZyw
 [MyNoise]: https://mynoise.net/
+[Note Foundry]: https://mp3frommidi.com
 [Opusonix]: https://opusonix.com
 [Pata Tracker]: https://pixwlk.itch.io/pata-tracker
 [Piano Genie]: https://magenta.tensorflow.org/pianogenie
