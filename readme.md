@@ -541,6 +541,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Amplitron] - Free, open-source real-time guitar amp simulator with 9 effects. C++17, cross-platform.
 - [Chordata] - A dummy chord-book for mandolin, ukulele and guitar.
 - [Fretboard] - Online Guitar fretboard viewer to study scales and chords.
+- [Fretline] - Chord and scale diagrams for guitar, ukulele and bass with notes, intervals and audio playback.
 - [Guitarix] - Virtual guitar amplifier for Linux running on JACK.
 - [GuitarToneAdapt] - Re-dial any famous song's amp and EQ settings for the exact guitar, amp, and pickups you own.
 - [Karplus-Strong Guitar] - JavaScript implementation of the Karplus-Strong
@@ -557,6 +558,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Amplitron]: https://github.com/sudip-mondal-2002/Amplitron
 [Chordata]: https://github.com/starenka/chordata
 [Fretboard]: https://github.com/AlexMost/fretboard
+[Fretline]: https://www.fretline.app
 [Guitarix]: https://guitarix.org
 [GuitarToneAdapt]: https://guitartoneadapt.com
 [Karplus-Strong Guitar]: https://amid.fish/javascript-karplus-strong
