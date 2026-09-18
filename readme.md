@@ -431,6 +431,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Share a Tune] - Play polyphonic ABC scores in the browser and share them.
 - [Song Maker] - Simple step sequencer.
 - [Sononym] - Visual sample browser. $
+- [Sound2MIDI](https://sound2midi.xyz/) - Free browser-based audio to MIDI converter; processing stays in your browser.
 - [Splice] - Music creation and collaboration platform. $
 - [stagedings] - An UI and API for mididings
 - [SuperCollider] - Platform for audio synthesis and algorithmic composition.
