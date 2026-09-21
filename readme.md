@@ -405,6 +405,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
     melodic patterns, rhythm, scales, EQ, and waveform generation.
 - [Davidic] - Procedural music generator with lockable scale, chords, and rhythm.
 - [Djenerator] - A metal breakdown generator.
+- [FindKeyBPM] - Free key + BPM finder in the browser.
 - [Frequency Explorer] - A microtonal additive synthesizer + sequencer
 - [Funklet] - Drum machine and library of famous drum patterns.
 - [Hookpad] - Songwriting tool from Hooktheory with chord, melody, and theory assistance built on the TheoryTab database. $
@@ -417,6 +418,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [mdrone] - Microtonal drone instrument that runs in your browser.
 - [mix check studio] - Check your mixes and masters for common issues.
 - [Musical Chord Progression Arpeggiator] - Sketch out musical chord progressions.
+- [MyChordFinder] - Free browser chord, scale, and progression finder.
 - [MyNoise] - Background noises and interactive soundscapes.
 - [Opusonix] - Collaborative planning and mix review platform for tracks and albums.
 - [Pata Tracker] - Browser-based chiptune tracker with PSG, FM, and sampler synthesis.
@@ -464,6 +466,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Davide Fumai's Music Tools]: https://sivabenepoivediamo.github.io/home/
 [Davidic]: https://bendious.itch.io/davidic
 [Djenerator]: https://djen.co/
+[FindKeyBPM]: https://findkeybpm.com/
 [Frequency Explorer]: https://github.com/ellamenop/frex
 [Funklet]: https://goodhertz.com/funklet/
 [Hookpad]: https://www.hooktheory.com/hookpad
@@ -476,6 +479,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [mdrone]: https://mdrone.org
 [mix check studio]: https://mixcheckstudio.roexaudio.com/
 [Musical Chord Progression Arpeggiator]: https://codepen.io/jak_e/pen/qNrZyw
+[MyChordFinder]: https://mychordfinder.com/
 [MyNoise]: https://mynoise.net/
 [Opusonix]: https://opusonix.com
 [Pata Tracker]: https://pixwlk.itch.io/pata-tracker
