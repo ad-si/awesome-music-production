@@ -824,6 +824,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Linux DAW] - Listing of open source audio software for Linux.
 - [Music Theory] - The exciting universe of music theory.
 - [muted.io] - Interactive music theory tools and visual references.
+- [PianoGrid] - Free browser reference for piano chords, inversions, scales, and labeled keyboard notes.
 - [SFZ Format] - Main reference for creating instruments with the SFZ format.
 - [Sound hacking and music technologies]
 - [Music Production Chips] - Community-managed collection of tips & tricks for music production.
@@ -841,6 +842,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Music Production Chips]: https://music-chips.com/
 [Music Theory]: https://ianring.com/musictheory/
 [muted.io]: https://muted.io
+[PianoGrid]: https://pianogrid.com
 [SFZ Format]: https://sfzformat.com
 [Sound hacking and music technologies]: https://youtu.be/v9uE2nHAGb8
 
