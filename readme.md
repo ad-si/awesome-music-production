@@ -416,6 +416,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Loudness Penalty] - Check how loud your track is and how much it will be penalised by online streaming services.
 - [mdrone] - Microtonal drone instrument that runs in your browser.
 - [mix check studio] - Check your mixes and masters for common issues.
+- [MP3 to MIDI Tool] - Convert clear monophonic MP3 and WAV melodies into downloadable MIDI files locally in the browser.
 - [Musical Chord Progression Arpeggiator] - Sketch out musical chord progressions.
 - [MyNoise] - Background noises and interactive soundscapes.
 - [Opusonix] - Collaborative planning and mix review platform for tracks and albums.
@@ -475,6 +476,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Loudness Penalty]: https://www.loudnesspenalty.com/
 [mdrone]: https://mdrone.org
 [mix check studio]: https://mixcheckstudio.roexaudio.com/
+[MP3 to MIDI Tool]: https://mp3tomiditool.com/
 [Musical Chord Progression Arpeggiator]: https://codepen.io/jak_e/pen/qNrZyw
 [MyNoise]: https://mynoise.net/
 [Opusonix]: https://opusonix.com
