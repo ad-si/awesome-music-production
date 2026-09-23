@@ -417,6 +417,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [mdrone] - Microtonal drone instrument that runs in your browser.
 - [mix check studio] - Check your mixes and masters for common issues.
 - [Musical Chord Progression Arpeggiator] - Sketch out musical chord progressions.
+- [MyChordFinder] - Free browser chord finder for guitar and piano (no signup).
 - [MyNoise] - Background noises and interactive soundscapes.
 - [Opusonix] - Collaborative planning and mix review platform for tracks and albums.
 - [Pata Tracker] - Browser-based chiptune tracker with PSG, FM, and sampler synthesis.
@@ -476,6 +477,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [mdrone]: https://mdrone.org
 [mix check studio]: https://mixcheckstudio.roexaudio.com/
 [Musical Chord Progression Arpeggiator]: https://codepen.io/jak_e/pen/qNrZyw
+[MyChordFinder]: https://mychordfinder.com
 [MyNoise]: https://mynoise.net/
 [Opusonix]: https://opusonix.com
 [Pata Tracker]: https://pixwlk.itch.io/pata-tracker
@@ -545,6 +547,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [GuitarToneAdapt] - Re-dial any famous song's amp and EQ settings for the exact guitar, amp, and pickups you own.
 - [Karplus-Strong Guitar] - JavaScript implementation of the Karplus-Strong
     plucked string synthesis algorithm.
+- [MyChordFinder] - Free online chord finder for guitar and piano.
 - [SmartGuitarAmp] - Guitar plugin using neural networks
     to emulate real world hardware.
 - [UkeGeeks] - Creates fingering diagrams by reading plain text
