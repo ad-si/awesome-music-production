@@ -319,6 +319,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [FreeEQ8] - Free, open-source 8-band parametric EQ plugin (VST3/AU) for macOS and Windows.
 - [Graillon] - Vocal pitch correction, formant shifting, and live voice changing plugin (VST3/AU/AAX/LV2). $
 - [Grip] - Hands-free voice & remote control for Ableton Live workflow. $
+- [Grisey] - Free, open-source metering plugin (VST3/AU/CLAP) with LUFS loudness, true peak, spectrum, spectrogram and goniometer, for macOS and Windows.
 - [IXI Programs] - Apps for creating musical instruments and environments.
 - [JJazzLab] - Easily generate dynamic backing tracks for any song.
 - [Konfyt] - Digital keyboard workstation for Linux.
@@ -358,6 +359,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Graillon]: https://auburnsounds.itch.io/graillon
 [IXI Programs]: http://www.ixi-audio.net/content/software.html
 [Grip]: https://www.gripforlive.com/
+[Grisey]: https://github.com/ZhiyuAlexZhang/Grisey
 [JJazzLab]: https://www.jjazzlab.org/en/
 [Konfyt]: https://github.com/noedigcode/konfyt
 [KXStudio]: https://kx.studio
