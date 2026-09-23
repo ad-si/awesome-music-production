@@ -80,6 +80,7 @@ A curated list of software, hardware, and other resources to create music.
 - [Waveform Pro] - A DAW designed for the needs of modern music producers. $
 - [Zrythm] - Cross-platform DAW.
 
+[audio-to-midi-engine]: https://github.com/x15987856/audio-to-midi-engine
 [Ableton]: https://www.ableton.com/en/live/
 [ACID]: https://web.archive.org/web/20231221120049/https://www.magix.com/us/music-editing/acid/
 [Ardour]: https://ardour.org
@@ -392,6 +393,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [AI Duet] - A smart piano that responds to you.
 - [Arpeggiator] - Web Audio Arpeggiator.
 - [Audio Motion Interface] - Use smartphone motions to control a synthesizer.
+- [audio-to-midi-engine] - Zero-dependency JavaScript engine that turns audio into MIDI: YIN pitch tracking plus a Standard MIDI File writer.
 - [Baroque Dances] - Procedurally generated classical music.
 - [Beat Push] - Online music production with built-in parallel drum and synth machine.
 - [beatboxer] - Simple drum machine.
