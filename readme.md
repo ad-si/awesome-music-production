@@ -621,7 +621,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 ### Sound / Sample Providers
 
 - [BigSoundBank] - 2800+ Free and Royalty Free Sounds
-- [BudgetPixel] - 2500+ sound effects and 650+ music tracks, free for commercial use without attribution.
+- [BudgetPixel] - 2600+ AI-generated sound effects and 700+ music tracks, free for commercial use with credit (CC BY 4.0).
 - [Musical Artifacts] - A place for sharing and preserving sound and music related software, samples, presets and more.
 - [PremiumBeat] - Curated, high-quality music and sound effects. $
 - [Soundstripe] - Royalty-free music and sound effects for video. $
