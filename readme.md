@@ -397,6 +397,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [beatboxer] - Simple drum machine.
 - [Binary Synth] - Binary file interpreter for audio synthesis.
 - [BlokDust] - Interactive music-making app to build synths and sounds.
+- [Canvas Maker for Spotify Artists] - Spotify Canvas videos, artist headers, avatars and cover art, encoded in the browser.
 - [Chord Editor] - Edit chord diagrams for guitar, ukulele, and other fretted instruments.
 - [Chords] - Text based chord progression editor.
 - [Chorushive] - Real-time Spotify lyric display with 8 visual themes and WebGL animated backgrounds.
@@ -457,6 +458,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [beatboxer]: https://sig.gy/beatboxer/
 [Binary Synth]: https://github.com/MaxAlyokhin/binary-synth
 [BlokDust]: https://github.com/blokdust/blokdust
+[Canvas Maker for Spotify Artists]: https://spotifyedits.com
 [Chord Editor]: https://github.com/newlandsvalley/chord-editor
 [Chords]: https://github.com/evashort/chords
 [Chorushive]: https://github.com/Greg-RG-GIT/chorushive
