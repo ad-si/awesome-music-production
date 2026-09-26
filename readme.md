@@ -550,6 +550,8 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [MyChordFinder] - Free online chord finder for guitar and piano.
 - [SmartGuitarAmp] - Guitar plugin using neural networks
     to emulate real world hardware.
+- [Strumfolio] - Offline songbook and chord chart reader
+    built on the ChordPro format.
 - [UkeGeeks] - Creates fingering diagrams by reading plain text
     or ChordPro ukulele songs.
 - [Ukulele Chord Detector] - Website for identifying chords
@@ -564,6 +566,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [GuitarToneAdapt]: https://guitartoneadapt.com
 [Karplus-Strong Guitar]: https://amid.fish/javascript-karplus-strong
 [SmartGuitarAmp]: https://github.com/GuitarML/SmartGuitarAmp
+[Strumfolio]: https://strumfolio.com
 [UkeGeeks]: https://github.com/buzcarter/UkeGeeks
 [Ukulele Chord Detector]: https://ukealong.com/tool/chord-detector/
 [Ukulele Chord Finder]:
