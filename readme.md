@@ -445,6 +445,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Tonalux] - Free browser-based audio tools: spectrum analyzer, plugin comparer, and media converter.
 - [Websynths] - Free browser-based microtonal midi instrument.
 - [WhatChord] - Real-time MIDI chord recognition with an explore mode for building chords.
+- [MelodyMate] - In-browser generative MIDI workstation and melodic sketchpad using rule-based music theory heuristics and Web Audio API.
 
 [108]: https://martinwecke.de/108/
 [ABC Tutorial]: https://github.com/newlandsvalley/purescript-abc-tutorial
@@ -504,6 +505,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Web Theremin]: https://hat-and-beard.itch.io/web-theremin
 [Websynths]: https://www.websynths.com/
 [WhatChord]: https://whatchord.earthmanmuons.com/
+[MelodyMate]: https://melody-mate-khaki.vercel.app/
 
 
 ### SaaS
