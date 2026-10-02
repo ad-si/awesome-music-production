@@ -434,6 +434,8 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Sononym] - Visual sample browser. $
 - [Splice] - Music creation and collaboration platform. $
 - [stagedings] - An UI and API for mididings
+- [StemConsole] - Browser-based stem separation, live mixing, practice tools,
+    key and tempo analysis, and MIDI tempo-map export. $
 - [SuperCollider] - Platform for audio synthesis and algorithmic composition.
 - [Synth Time] - Simple synthesizer.
 - [Synthi-JS] - A JavaScript emulator of the legendary EMS Synthi A synthesizer.
@@ -493,6 +495,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Song Maker]: https://musiclab.chromeexperiments.com/Song-Maker/
 [Sononym]: https://www.sononym.net
 [Splice]: https://splice.com
+[StemConsole]: https://stemconsole.ai/
 [SuperCollider]: https://supercollider.github.io
 [Synth Time]: https://codepen.io/mattgreenberg/pen/gPdqBb
 [Synthi-JS]: https://alexnisnevich.github.io/synthi-js/
