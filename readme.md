@@ -434,8 +434,9 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Sononym] - Visual sample browser. $
 - [Splice] - Music creation and collaboration platform. $
 - [stagedings] - An UI and API for mididings
-- [StemConsole] - Browser-based stem separation, live mixing, practice tools,
-    key and tempo analysis, and MIDI tempo-map export. $
+- [StemConsole] - Browser-based stem separation and live mixing, pitch and tempo
+    controls, saved loops and count-in, plus key and tempo analysis with MIDI
+    tempo-map export. $
 - [SuperCollider] - Platform for audio synthesis and algorithmic composition.
 - [Synth Time] - Simple synthesizer.
 - [Synthi-JS] - A JavaScript emulator of the legendary EMS Synthi A synthesizer.
