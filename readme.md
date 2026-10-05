@@ -341,6 +341,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [SeekMIDI] - Graphical multi channel MIDI sequencer.
 - [Seq24] - Minimal loop based midi sequencer.
 - [Sonic Visualiser] - Visualize, analyze, and annotate music audio recordings.
+- [sounddifff] - CLI to compare two mixes or masters (loudness, spectrum, clipping) and check them against streaming and broadcast loudness targets.
 - [SpectralHarp] - Strum the sound spectrum to create strange sounds (VST3/AU/standalone).
 - [Spire] - iOS multitrack recording app with FX & mixing features.
 - [Transcribe!] - App to help transcribe recorded music. $
@@ -380,6 +381,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [SeekMIDI]: https://oldtechaa.github.io/SeekMIDI/
 [Seq24]: https://filter24.org/seq24/
 [Sonic Visualiser]: https://sonicvisualiser.org
+[sounddifff]: https://github.com/jaimefgdev/sounddifff
 [SpectralHarp]: https://damikyu.itch.io/spectralharp
 [Spire]: https://apps.apple.com/us/app/spire-music-recorder-studio/id1013021109
 [Transcribe!]: https://www.seventhstring.com/xscribe/overview.html
