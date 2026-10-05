@@ -336,6 +336,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Patroneo] - Simple pattern based midi sequencer.
 - [Polyphone] - A soundfont editor for quickly designing musical instruments.
 - [Reverie] - Desktop app that transforms audio files into evolving ambient textures and drones (macOS and Windows). $
+- [RollTab] - AI piano partner that continues your MIDI keyboard playing in real time with an on-device model (Apple platforms).
 - [Samplr] - Multi-touch music making app for iPad. $
 - [SeekMIDI] - Graphical multi channel MIDI sequencer.
 - [Seq24] - Minimal loop based midi sequencer.
@@ -374,6 +375,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Patroneo]: https://laborejo.org/patroneo/
 [Polyphone]: https://www.polyphone.io/
 [Reverie]: https://reverie.parallel-minds.studio
+[RollTab]: https://apps.apple.com/us/app/rolltab/id6799679058
 [Samplr]: http://samplr.net
 [SeekMIDI]: https://oldtechaa.github.io/SeekMIDI/
 [Seq24]: https://filter24.org/seq24/
