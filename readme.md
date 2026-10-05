@@ -428,6 +428,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [QuasiMusic] - Quasiperiodic tilings of the plane as sound triggers.
 - [Qwerkey] - Keyboard tonnetz.
 - [Reactor] - Online DJ controller connected to SoundCloud.
+- [Remove Audio Vocal Remover] - Browser-based AI vocal remover that keeps the instrumental of a song or video.
 - [Repeater Orchestra] - An orchestra of repeaters which repeat the conductor.
 - [Roland 50 Studio] - Online playground with emulations of classic Roland devices.
 - [Scale Explorer] - Visual scale explorer.
@@ -488,6 +489,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [QuasiMusic]: https://www.gregegan.net/APPLETS/34/34.html
 [Qwerkey]: https://some1else.github.io/qwerkey/
 [Reactor]: https://lukeandersen.github.io/reactor/
+[Remove Audio Vocal Remover]: https://remove-audio.com/tools/remove-voice-from-video
 [Repeater Orchestra]: https://codepen.io/barefootfunk/pen/ZWoLmo
 [Roland 50 Studio]: https://roland50.studio
 [Scale Explorer]: https://www.frazierpianostudio.com/resources/scale-explorer/
