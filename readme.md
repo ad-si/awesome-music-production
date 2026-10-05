@@ -332,6 +332,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Nimble Kick] - Sampler plugin specialized for pitching hardstyle kicks (VST3/AU). $
 - [Ninjas 2] - Sample slicer audio plugin and standalone app.
 - [Orb Producer Suite] - Suite of AI-assisted plugins for generating melodies, basslines, chords, and arpeggios. $
+- [ORBIT] - Free, open-source binaural movement plugin (VST3/AU): place a sound around your head, orbit it, or fly it past with real Doppler.
 - [Ossia Score] - Sequencer for audio-visual and interactive shows.
 - [Patroneo] - Simple pattern based midi sequencer.
 - [Polyphone] - A soundfont editor for quickly designing musical instruments.
@@ -343,6 +344,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Sonic Visualiser] - Visualize, analyze, and annotate music audio recordings.
 - [SpectralHarp] - Strum the sound spectrum to create strange sounds (VST3/AU/standalone).
 - [Spire] - iOS multitrack recording app with FX & mixing features.
+- [SUPERNOVA] - Free, open-source audio-reactive visual synth (VST3/AU plugin and standalone app, macOS): an image or a video becomes GPU particles that move with the sound.
 - [Transcribe!] - App to help transcribe recorded music. $
 - [Ultimate Vocal Remover] - AI-powered vocal remover.
 
@@ -371,6 +373,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Nimble Kick]: https://nimble.itch.io/kick
 [Ninjas 2]: https://github.com/clearly-broken-software/ninjas2
 [Orb Producer Suite]: https://www.landr.com/plugins/landr-composer
+[ORBIT]: https://ovniaudio.com/orbit
 [Ossia Score]: https://ossia.io
 [Patroneo]: https://laborejo.org/patroneo/
 [Polyphone]: https://www.polyphone.io/
@@ -382,6 +385,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Sonic Visualiser]: https://sonicvisualiser.org
 [SpectralHarp]: https://damikyu.itch.io/spectralharp
 [Spire]: https://apps.apple.com/us/app/spire-music-recorder-studio/id1013021109
+[SUPERNOVA]: https://ovniaudio.com/supernova
 [Transcribe!]: https://www.seventhstring.com/xscribe/overview.html
 [Ultimate Vocal Remover]: https://ultimatevocalremover.com/
 
