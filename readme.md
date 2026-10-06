@@ -635,12 +635,14 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [PremiumBeat] - Curated, high-quality music and sound effects. $
 - [Soundstripe] - Royalty-free music and sound effects for video. $
 - [Splice] - Royalty-free samples, one-shots, loops, MIDI, and presets. $
+- [AERIS MUSIC] - Original instrumental tracks released under CC0 (public domain, no attribution), plus a paid license tier for commercial use.
 
 [BigSoundBank]: https://bigsoundbank.com/
 [Musical Artifacts]: https://musical-artifacts.com/
 [PremiumBeat]: https://www.premiumbeat.com
 [Soundstripe]: https://www.soundstripe.com
 [Splice]: https://splice.com/features/sounds
+[AERIS MUSIC]: https://github.com/farmmer938-lgtm/aeris-cc0-music
 
 
 ## Datasets
