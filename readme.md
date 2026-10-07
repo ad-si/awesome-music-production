@@ -578,6 +578,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 ### AI Music Creation
 
 - [ILLUGEN] - AI-powered text-to-sample engine. $
+- [Lacuna] - Create full songs with AI vocals and lyrics, instrumentals, and stems. $
 - [LAIVE] $
 - [LatentScore Live] - Generate ambient music from text in the browser.
 - [MemoTune] - Transform text or lyrics into full songs with AI vocals. $
@@ -587,6 +588,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Suno AI] - AI-powered music composition and production platform. $
 
 [ILLUGEN]: https://www.waves.com/illugen
+[Lacuna]: https://lacuna.fm
 [LAIVE]: https://www.laive.io
 [LatentScore Live]: https://latentscore.com
 [MemoTune]: https://memotune.com
