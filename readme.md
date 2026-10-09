@@ -431,6 +431,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Repeater Orchestra] - An orchestra of repeaters which repeat the conductor.
 - [Roland 50 Studio] - Online playground with emulations of classic Roland devices.
 - [Scale Explorer] - Visual scale explorer.
+- [seance] - Spectrogram, drum stem splitting, slicing a break at its hits and BS.1770-4 loudness, all in the browser.
 - [Share a Tune] - Play polyphonic ABC scores in the browser and share them.
 - [Song Maker] - Simple step sequencer.
 - [Sononym] - Visual sample browser. $
@@ -491,6 +492,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Repeater Orchestra]: https://codepen.io/barefootfunk/pen/ZWoLmo
 [Roland 50 Studio]: https://roland50.studio
 [Scale Explorer]: https://www.frazierpianostudio.com/resources/scale-explorer/
+[seance]: https://hexenwerkzeug.com/tools/seance
 [Share a Tune]: https://github.com/newlandsvalley/share-a-tune
 [Song Maker]: https://musiclab.chromeexperiments.com/Song-Maker/
 [Sononym]: https://www.sononym.net
