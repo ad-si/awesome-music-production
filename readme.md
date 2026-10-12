@@ -558,6 +558,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
     and showing notes on a fretboard.
 - [Ukulele Chord Finder]
 - [Ukutabs] - Source for ukulele tabs, chords, tips, tools, guides
+- [17NAS Bass Tuner] - Free online bass tuner; tune 4-string and 5-string bass accurately with your microphone, no signup.
 
 [Amplitron]: https://github.com/sudip-mondal-2002/Amplitron
 [Chordata]: https://github.com/starenka/chordata
@@ -901,3 +902,4 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Universal Music Translation Network]:
     https://research.facebook.com/publications/a-universal-music-translation-network/
 [VR Instruments]: https://doi.org/10.1162/COMJ_a_00372
+[17NAS Bass Tuner]: https://17nas.com/bass-tuner.php
