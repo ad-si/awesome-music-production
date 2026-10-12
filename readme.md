@@ -123,6 +123,7 @@ A curated list of software, hardware, and other resources to create music.
 - [Augmented Audio] - Library for audio programming written in Rust.
 - [Band.js] - Music composer interface for the Web Audio API.
 - [Blip] - Looping and sampling with the Web Audio API.
+- [bpm-key-detect] - Tempo and musical key detection from raw PCM, with Camelot notation. No dependencies.
 - [Cane] - A small MIDI sequencer DSL designed around vectors and euclidean rhythms.
 - [CSound] - A sound and music computing system.
 - [Dplug] - Library to make audio plug-ins with the D programming language.
@@ -185,6 +186,7 @@ A curated list of software, hardware, and other resources to create music.
 [Aubio]: https://aubio.org
 [Band.js]: https://github.com/meenie/band.js
 [Blip]: https://jshanley.github.io/blip/
+[bpm-key-detect]: https://github.com/Utilumo/bpm-key-detect
 [Cane]: https://github.com/tarpit-collective/cane
 [CSound]: https://csound.com/index.html
 [Dplug]: https://github.com/AuburnSounds/dplug
@@ -432,6 +434,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Roland 50 Studio] - Online playground with emulations of classic Roland devices.
 - [Scale Explorer] - Visual scale explorer.
 - [Share a Tune] - Play polyphonic ABC scores in the browser and share them.
+- [Song Analyzer] - Detect BPM, musical key, and Camelot notation in the browser.
 - [Song Maker] - Simple step sequencer.
 - [Sononym] - Visual sample browser. $
 - [Splice] - Music creation and collaboration platform. $
@@ -492,6 +495,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Roland 50 Studio]: https://roland50.studio
 [Scale Explorer]: https://www.frazierpianostudio.com/resources/scale-explorer/
 [Share a Tune]: https://github.com/newlandsvalley/share-a-tune
+[Song Analyzer]: https://utilumo.com/audio/song-analyzer
 [Song Maker]: https://musiclab.chromeexperiments.com/Song-Maker/
 [Sononym]: https://www.sononym.net
 [Splice]: https://splice.com
