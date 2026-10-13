@@ -421,6 +421,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Musical Chord Progression Arpeggiator] - Sketch out musical chord progressions.
 - [MyChordFinder] - Free browser chord finder for guitar and piano (no signup).
 - [MyNoise] - Background noises and interactive soundscapes.
+- [Online Tone Generator] - Free, browser-based tone generator (20Hz-20kHz, sine/square/triangle/sawtooth, frequency sweeps, WAV export) for tuning, speaker/headphone testing and hearing checks. Client-side, no upload.
 - [Opusonix] - Collaborative planning and mix review platform for tracks and albums.
 - [Pata Tracker] - Browser-based chiptune tracker with PSG, FM, and sampler synthesis.
 - [Piano Genie] - Machine learning augmented piano app.
@@ -481,6 +482,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Musical Chord Progression Arpeggiator]: https://codepen.io/jak_e/pen/qNrZyw
 [MyChordFinder]: https://mychordfinder.com
 [MyNoise]: https://mynoise.net/
+[Online Tone Generator]: https://online-tone-generator.com/
 [Opusonix]: https://opusonix.com
 [Pata Tracker]: https://pixwlk.itch.io/pata-tracker
 [Piano Genie]: https://magenta.tensorflow.org/pianogenie
