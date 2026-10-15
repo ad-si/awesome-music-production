@@ -343,6 +343,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Sonic Visualiser] - Visualize, analyze, and annotate music audio recordings.
 - [SpectralHarp] - Strum the sound spectrum to create strange sounds (VST3/AU/standalone).
 - [Spire] - iOS multitrack recording app with FX & mixing features.
+- [StemMaker] - Free, open-source Windows app that turns MP3, WAV or FLAC files into Traktor stem files (.stem.mp4) with Demucs, running locally on the CPU.
 - [Transcribe!] - App to help transcribe recorded music. $
 - [Ultimate Vocal Remover] - AI-powered vocal remover.
 
@@ -382,6 +383,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Sonic Visualiser]: https://sonicvisualiser.org
 [SpectralHarp]: https://damikyu.itch.io/spectralharp
 [Spire]: https://apps.apple.com/us/app/spire-music-recorder-studio/id1013021109
+[StemMaker]: https://github.com/Elospeed/StemMaker
 [Transcribe!]: https://www.seventhstring.com/xscribe/overview.html
 [Ultimate Vocal Remover]: https://ultimatevocalremover.com/
 
