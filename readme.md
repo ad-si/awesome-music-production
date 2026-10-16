@@ -636,12 +636,14 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Musical Artifacts] - A place for sharing and preserving sound and music related software, samples, presets and more.
 - [PremiumBeat] - Curated, high-quality music and sound effects. $
 - [Soundstripe] - Royalty-free music and sound effects for video. $
+- [Soundza] - Free loops, one-shots, vocal chops and sound effects, tagged with tempo and key.
 - [Splice] - Royalty-free samples, one-shots, loops, MIDI, and presets. $
 
 [BigSoundBank]: https://bigsoundbank.com/
 [Musical Artifacts]: https://musical-artifacts.com/
 [PremiumBeat]: https://www.premiumbeat.com
 [Soundstripe]: https://www.soundstripe.com
+[Soundza]: https://soundza.com/
 [Splice]: https://splice.com/features/sounds
 
 
