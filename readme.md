@@ -419,6 +419,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Looplabs] - Cloud based music studio.
 - [Loudness Penalty] - Check how loud your track is and how much it will be penalised by online streaming services.
 - [mdrone] - Microtonal drone instrument that runs in your browser.
+- [Melody Mate] - In-browser generative MIDI workstation and melodic sketchpad using rule-based music theory heuristics and the Web Audio API.
 - [mix check studio] - Check your mixes and masters for common issues.
 - [Musical Chord Progression Arpeggiator] - Sketch out musical chord progressions.
 - [MyChordFinder] - Free browser chord finder for guitar and piano (no signup).
@@ -480,6 +481,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Looplabs]: https://www.looplabs.com/
 [Loudness Penalty]: https://www.loudnesspenalty.com/
 [mdrone]: https://mdrone.org
+[Melody Mate]: https://melody-mate-khaki.vercel.app/
 [mix check studio]: https://mixcheckstudio.roexaudio.com/
 [Musical Chord Progression Arpeggiator]: https://codepen.io/jak_e/pen/qNrZyw
 [MyChordFinder]: https://mychordfinder.com
