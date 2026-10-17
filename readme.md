@@ -59,6 +59,7 @@ A curated list of software, hardware, and other resources to create music.
 - [Giada] - Minimal audio tool for DJs, live performers and musicians.
 - [GridSound] - Free online DAW implemented with the Web Audio API.
 - [Helio] - Libre music composition software.
+- [Infinite] - Open-source modular audiovisual DAW with sample-accurate synthesis, VST3/AU hosting, and GLSL shaders.
 - [LMMS] - Comprehensive open source, cross platform DAW.
 - [Logic Pro X] - Professional DAW for macOS with a large collection of instruments and effects. $
 - [Lovely Composer] - Chiptune music creation tool inspired by Mario Paint. $
@@ -93,6 +94,7 @@ A curated list of software, hardware, and other resources to create music.
 [Giada]: https://www.giadamusic.com
 [GridSound]: https://github.com/gridsound/daw
 [Helio]: https://helio.fm/
+[Infinite]: https://infinitedevices.org/
 [LMMS]: https://lmms.io/
 [Logic Pro X]: https://www.apple.com/logic-pro/
 [Lovely Composer]: https://1oogames.itch.io/lovely-composer
