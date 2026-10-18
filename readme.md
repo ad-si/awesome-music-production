@@ -652,9 +652,11 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 ## Datasets
 
 - [Free MIDI Chords] - Collection of free MIDI chords and progressions.
+- [MIDI Conversion Fixture Data] - Reproducible controlled fixtures for evaluating single-line audio-to-MIDI detection.
 - [SigSep] - Publicly available datasets for research on source separation.
 
 [Free MIDI Chords]: https://github.com/ldrolez/free-midi-chords
+[MIDI Conversion Fixture Data]: https://github.com/luguanhuang/midi-convert-fixture-data
 [SigSep]: https://sigsep.github.io/
 
 
