@@ -78,6 +78,7 @@ A curated list of software, hardware, and other resources to create music.
 - [Studio One Pro] - Complete DAW and live show sequencing. $
 - [SunVox] - Small, fast, modular synthesizer with a pattern-based tracker.
 - [TuneFlow] - Free, AI-powered DAW that provides lyrics/music generation, stem separation, MIDI transcription, as well as full editing and mixing capabilities.
+- [UFODAW] - Free, open-source DAW for Windows with VST3 hosting, sampler, drum rack and take comping.
 - [Waveform Pro] - A DAW designed for the needs of modern music producers. $
 - [Zrythm] - Cross-platform DAW.
 
@@ -112,6 +113,7 @@ A curated list of software, hardware, and other resources to create music.
 [Studio One Pro]: https://www.fender.com/pages/fender-studio-pro
 [SunVox]: https://nightradio.itch.io/sunvox
 [TuneFlow]: https://tuneflow.com
+[UFODAW]: https://ufodaw.eu
 [Waveform Pro]: https://www.tracktion.com/products/waveform-pro
 [Zrythm]: https://www.zrythm.org/en/index.html
 
