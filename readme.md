@@ -591,6 +591,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Omnizart] - Transcribe vocals, drums, chords, beats, and more.
 - [Splash] - AI-powered music creation platform.
 - [Suno AI] - AI-powered music composition and production platform. $
+- [MelodyGift] - Personalized gift song from your story — audio delivery.
 
 [ILLUGEN]: https://www.waves.com/illugen
 [LAIVE]: https://www.laive.io
@@ -600,6 +601,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Omnizart]: https://github.com/Music-and-Culture-Technology-Lab/omnizart
 [Splash]: https://www.splashmusic.com
 [Suno AI]: https://suno.com/
+[MelodyGift]: https://votremelodie.cc
 
 
 ### Music Distribution
