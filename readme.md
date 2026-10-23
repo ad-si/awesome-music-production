@@ -310,6 +310,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [1BITDRAGON] - Easy, approachable music creation tool with 200+ instruments and drum samples. $
 - [Agordejo] - Music production session manager.
 - [Auxy] - Modern instruments for mobile creators. $
+- [Beat Cafe] - Desktop app that splits songs into vocal and instrumental stems with an on-device model (macOS and Windows). $
 - [Captain Plugins] - Suite of plugins for chord progressions, melodies, basslines, and beats by Mixed In Key. $
 - [ChipTone] - Free tool for generating sound effects.
 - [Claude AI Music Skills] - Claude Code plugin for AI-assisted album production
@@ -351,6 +352,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [1BITDRAGON]: https://1bitdragon.itch.io/1bitdragon
 [Agordejo]: https://laborejo.org/agordejo/
 [Auxy]: https://auxy.co/
+[Beat Cafe]: https://getapps.cafe/app/beatcafe
 [Captain Plugins]: https://mixedinkey.com/captain-plugins/
 [ChipTone]: https://sfbgames.itch.io/chiptone
 [Claude AI Music Skills]: https://github.com/bitwize-music-studio/claude-ai-music-skills
