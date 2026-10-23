@@ -629,8 +629,10 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 ### Music Promotion
 
+- [droplr.fm] - Pre-save links, smart links and download gates for your releases. Free plan available.
 - [SubmitHub] - Submit your music to bloggers and curators. $
 
+[droplr.fm]: https://droplr.fm
 [SubmitHub]: https://www.submithub.com
 
 
