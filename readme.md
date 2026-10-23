@@ -336,6 +336,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Orb Producer Suite] - Suite of AI-assisted plugins for generating melodies, basslines, chords, and arpeggios. $
 - [Ossia Score] - Sequencer for audio-visual and interactive shows.
 - [Patroneo] - Simple pattern based midi sequencer.
+- [PianoTrainer] - Desktop app that drills scales and chords in all 12 keys on a connected MIDI keyboard (macOS and Windows). $
 - [Polyphone] - A soundfont editor for quickly designing musical instruments.
 - [Reverie] - Desktop app that transforms audio files into evolving ambient textures and drones (macOS and Windows). $
 - [RollTab] - AI piano partner that continues your MIDI keyboard playing in real time with an on-device model (Apple platforms).
@@ -375,6 +376,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Orb Producer Suite]: https://www.landr.com/plugins/landr-composer
 [Ossia Score]: https://ossia.io
 [Patroneo]: https://laborejo.org/patroneo/
+[PianoTrainer]: https://getapps.cafe/app/pianotrainer
 [Polyphone]: https://www.polyphone.io/
 [Reverie]: https://reverie.parallel-minds.studio
 [RollTab]: https://apps.apple.com/us/app/rolltab/id6799679058
