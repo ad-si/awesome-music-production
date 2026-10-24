@@ -414,6 +414,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Hookpad] - Songwriting tool from Hooktheory with chord, melody, and theory assistance built on the TheoryTab database. $
 - [Keithwhor.com/music] - Musical Keyboard - JS Dynamic Audio Synth.
 - [Klank] - Sound and animation in the browser using PureScript.
+- [Klaviero] - Falling-notes piano game for MIDI keyboards with 4,296 classical charts. $
 - [Lissajous] - A tool for programmatic audio performance in the browser.
 - [Loopjs] - Live Electronic Music Performance Software.
 - [Looplabs] - Cloud based music studio.
@@ -476,6 +477,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Hookpad]: https://www.hooktheory.com/hookpad
 [Keithwhor.com/music]: https://keithwhor.com/music/
 [Klank]: https://klank.dev/
+[Klaviero]: https://klaviero.com
 [Lissajous]: https://github.com/kylestetz/lissajous
 [Loopjs]: https://github.com/mmckegg/loop-drop-app
 [Looplabs]: https://www.looplabs.com/
