@@ -553,6 +553,8 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Fretboard] - Online Guitar fretboard viewer to study scales and chords.
 - [Guitarix] - Virtual guitar amplifier for Linux running on JACK.
 - [GuitarToneAdapt] - Re-dial any famous song's amp and EQ settings for the exact guitar, amp, and pickups you own.
+- [GuitarTunings] - Free in-browser guitar and ukulele tuner
+    with 90+ alternate tunings and the tunings used in popular songs.
 - [Karplus-Strong Guitar] - JavaScript implementation of the Karplus-Strong
     plucked string synthesis algorithm.
 - [MyChordFinder] - Free online chord finder for guitar and piano.
@@ -570,6 +572,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Fretboard]: https://github.com/AlexMost/fretboard
 [Guitarix]: https://guitarix.org
 [GuitarToneAdapt]: https://guitartoneadapt.com
+[GuitarTunings]: https://guitartunings.app
 [Karplus-Strong Guitar]: https://amid.fish/javascript-karplus-strong
 [SmartGuitarAmp]: https://github.com/GuitarML/SmartGuitarAmp
 [UkeGeeks]: https://github.com/buzcarter/UkeGeeks
