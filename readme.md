@@ -409,6 +409,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
     melodic patterns, rhythm, scales, EQ, and waveform generation.
 - [Davidic] - Procedural music generator with lockable scale, chords, and rhythm.
 - [Djenerator] - A metal breakdown generator.
+- [FIELDNOTE] - Browser-based MP3/WAV-to-MIDI conversion with local in-browser processing.
 - [Frequency Explorer] - A microtonal additive synthesizer + sequencer
 - [Funklet] - Drum machine and library of famous drum patterns.
 - [Hookpad] - Songwriting tool from Hooktheory with chord, melody, and theory assistance built on the TheoryTab database. $
@@ -472,6 +473,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Davide Fumai's Music Tools]: https://sivabenepoivediamo.github.io/home/
 [Davidic]: https://bendious.itch.io/davidic
 [Djenerator]: https://djen.co/
+[FIELDNOTE]: https://midifromsound.com/
 [Frequency Explorer]: https://github.com/ellamenop/frex
 [Funklet]: https://goodhertz.com/funklet/
 [Hookpad]: https://www.hooktheory.com/hookpad
