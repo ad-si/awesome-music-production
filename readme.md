@@ -414,7 +414,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Hookpad] - Songwriting tool from Hooktheory with chord, melody, and theory assistance built on the TheoryTab database. $
 - [Keithwhor.com/music] - Musical Keyboard - JS Dynamic Audio Synth.
 - [Klank] - Sound and animation in the browser using PureScript.
-- [Klaviero] - Falling-notes piano game for MIDI keyboards with 4,296 classical charts. $
+- [Klaviero] - Falling-notes piano game for MIDI keyboards with a library of classical pieces. $
 - [Lissajous] - A tool for programmatic audio performance in the browser.
 - [Loopjs] - Live Electronic Music Performance Software.
 - [Looplabs] - Cloud based music studio.
