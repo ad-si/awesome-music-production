@@ -634,8 +634,10 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 ### Music Promotion
 
+- [Song Promo Kit] - TikTok start-time steps for 11 distributors, creator brief, release-week plan and an in-browser hook finder.
 - [SubmitHub] - Submit your music to bloggers and curators. $
 
+[Song Promo Kit]: https://www.contentrewardz.com/tools/song-promo-kit
 [SubmitHub]: https://www.submithub.com
 
 
