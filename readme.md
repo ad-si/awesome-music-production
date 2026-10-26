@@ -447,6 +447,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [SongFromLink] - Identify background music from TikTok, YouTube Shorts, Instagram Reels, X, and Facebook Reels video links
 - [TimeStretch] - Online tool to loop, speed up, slow down, and pitch shift sections of an audio file.
 - [Tap Tempo] - Free Tap BPM tool that actually syncs with your hardware (Web MIDI).
+- [The Audio Stuff Tools] - Free browser tools for mixing and studio setup: EQ ear training, online equalizer, tone generator, ABX blind test, and room mode and acoustic panel calculators.
 - [Vizz.fm] - Browser-based music visualizer with customizable scenes and savable presets.
 - [Web Theremin] - Browser-based theremin instrument.
 - [Tonalux] - Free browser-based audio tools: spectrum analyzer, plugin comparer, and media converter.
@@ -509,6 +510,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [SongFromLink]: https://songfromlink.com
 [TimeStretch]: https://29a.ch/timestretch/
 [Tap Tempo]: https://tapbpmhub.com/
+[The Audio Stuff Tools]: https://theaudiostuff.com/tools/
 [Tonalux]: https://tonalux.org
 [Vizz.fm]: https://vizz.fm
 [Web Theremin]: https://hat-and-beard.itch.io/web-theremin
