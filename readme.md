@@ -429,6 +429,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Opusonix] - Collaborative planning and mix review platform for tracks and albums.
 - [Pata Tracker] - Browser-based chiptune tracker with PSG, FM, and sampler synthesis.
 - [Piano Genie] - Machine learning augmented piano app.
+- [Plastic Chord Progression Generator] - Generate progressions by key and mood, hear them on piano or guitar over drum beats, and download MIDI.
 - [Polska Metronome] - Metronome with irregular beats for Scandinavian folk music.
 - [QuasiMusic] - Quasiperiodic tilings of the plane as sound triggers.
 - [Qwerkey] - Keyboard tonnetz.
@@ -493,6 +494,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Opusonix]: https://opusonix.com
 [Pata Tracker]: https://pixwlk.itch.io/pata-tracker
 [Piano Genie]: https://magenta.tensorflow.org/pianogenie
+[Plastic Chord Progression Generator]: https://plastic.audio/chord-progression-generator/
 [Polska Metronome]: https://github.com/newlandsvalley/purescript-polska-metronome
 [QuasiMusic]: https://www.gregegan.net/APPLETS/34/34.html
 [Qwerkey]: https://some1else.github.io/qwerkey/
