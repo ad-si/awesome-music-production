@@ -412,6 +412,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Frequency Explorer] - A microtonal additive synthesizer + sequencer
 - [Funklet] - Drum machine and library of famous drum patterns.
 - [Hookpad] - Songwriting tool from Hooktheory with chord, melody, and theory assistance built on the TheoryTab database. $
+- [Hot Music Lab] - Free vocal remover and stem splitter (vocals, drums, bass, other) with a two-fader mix you can download, plus a drum remover.
 - [Keithwhor.com/music] - Musical Keyboard - JS Dynamic Audio Synth.
 - [Klank] - Sound and animation in the browser using PureScript.
 - [Klaviero] - Falling-notes piano game for MIDI keyboards with a library of classical pieces. $
@@ -476,6 +477,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Frequency Explorer]: https://github.com/ellamenop/frex
 [Funklet]: https://goodhertz.com/funklet/
 [Hookpad]: https://www.hooktheory.com/hookpad
+[Hot Music Lab]: https://hotmusiclab.com/en
 [Keithwhor.com/music]: https://keithwhor.com/music/
 [Klank]: https://klank.dev/
 [Klaviero]: https://klaviero.com
