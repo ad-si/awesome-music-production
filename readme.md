@@ -598,6 +598,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Omnizart] - Transcribe vocals, drums, chords, beats, and more.
 - [Splash] - AI-powered music creation platform.
 - [Suno AI] - AI-powered music composition and production platform. $
+- [Tera Studio] - Sings any song back in your own voice, learned from about a minute of your singing. $
 
 [ILLUGEN]: https://www.waves.com/illugen
 [LAIVE]: https://www.laive.io
@@ -607,6 +608,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Omnizart]: https://github.com/Music-and-Culture-Technology-Lab/omnizart
 [Splash]: https://www.splashmusic.com
 [Suno AI]: https://suno.com/
+[Tera Studio]: https://terastudio.co
 
 
 ### Music Distribution
