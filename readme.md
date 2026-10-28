@@ -323,6 +323,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Grip] - Hands-free voice & remote control for Ableton Live workflow. $
 - [IXI Programs] - Apps for creating musical instruments and environments.
 - [JJazzLab] - Easily generate dynamic backing tracks for any song.
+- [Key Changer] - Chrome extension that shifts the pitch of audio playing in a tab, such as a YouTube backing track, by -12 to +12 semitones without changing the tempo.
 - [Konfyt] - Digital keyboard workstation for Linux.
 - [KXStudio] - Collection of applications and plugins for audio production.
 - [Laborejo] - MIDI sequencer based on classical music notation.
@@ -362,6 +363,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [IXI Programs]: http://www.ixi-audio.net/content/software.html
 [Grip]: https://www.gripforlive.com/
 [JJazzLab]: https://www.jjazzlab.org/en/
+[Key Changer]: https://chromewebstore.google.com/detail/gnidckbifbgpgdkeobdegnnjdkjbbfme
 [Konfyt]: https://github.com/noedigcode/konfyt
 [KXStudio]: https://kx.studio
 [Laborejo]: https://laborejo.org/laborejo/
