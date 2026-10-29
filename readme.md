@@ -660,9 +660,11 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 - [Free MIDI Chords] - Collection of free MIDI chords and progressions.
 - [SigSep] - Publicly available datasets for research on source separation.
+- [Miditap MP3-to-MIDI Reference] - Synthetic input/output fixtures, observed note CSVs, cleanup guidance, and a dependency-free Standard MIDI File validator.
 
 [Free MIDI Chords]: https://github.com/ldrolez/free-midi-chords
 [SigSep]: https://sigsep.github.io/
+[Miditap MP3-to-MIDI Reference]: https://github.com/kedafeng55-art/miditap-mp3-to-midi-reference
 
 
 ## Misc
