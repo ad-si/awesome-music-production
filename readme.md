@@ -408,6 +408,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Davide Fumai's Music Tools] - Suite of vector-math based tools for counterpoint,
     melodic patterns, rhythm, scales, EQ, and waveform generation.
 - [Davidic] - Procedural music generator with lockable scale, chords, and rhythm.
+- [DescribeMusic Audio Finder] - Identify a song from an uploaded audio or video file, with track, artist and genre, plus optional follow-up analysis for BPM and key. $
 - [Djenerator] - A metal breakdown generator.
 - [Frequency Explorer] - A microtonal additive synthesizer + sequencer
 - [Funklet] - Drum machine and library of famous drum patterns.
@@ -472,6 +473,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
     https://www.frazierpianostudio.com/resources/circle-of-fifths-explorer/
 [Davide Fumai's Music Tools]: https://sivabenepoivediamo.github.io/home/
 [Davidic]: https://bendious.itch.io/davidic
+[DescribeMusic Audio Finder]: https://describemusic.net/analyze/audio-finder/
 [Djenerator]: https://djen.co/
 [Frequency Explorer]: https://github.com/ellamenop/frex
 [Funklet]: https://goodhertz.com/funklet/
