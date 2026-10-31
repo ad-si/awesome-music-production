@@ -311,6 +311,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Agordejo] - Music production session manager.
 - [Auxy] - Modern instruments for mobile creators. $
 - [Captain Plugins] - Suite of plugins for chord progressions, melodies, basslines, and beats by Mixed In Key. $
+- [Partscaster] - Open-source desktop app that turns AI-generated tracks into records that sound like a live band: real instruments, generated guitar and drum performances from the song's chords, mix-style stem processing. Includes an MCP server for AI agents.
 - [ChipTone] - Free tool for generating sound effects.
 - [Claude AI Music Skills] - Claude Code plugin for AI-assisted album production
   including lyrics, style prompts, per-stem mixing, mastering,
@@ -353,6 +354,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Auxy]: https://auxy.co/
 [Captain Plugins]: https://mixedinkey.com/captain-plugins/
 [ChipTone]: https://sfbgames.itch.io/chiptone
+[Partscaster]: https://github.com/Zazza/partscaster
 [Claude AI Music Skills]: https://github.com/bitwize-music-studio/claude-ai-music-skills
 [Composer's Sketchpad]: http://composerssketchpad.com
 [Dragonfly Reverb]: https://github.com/michaelwillis/dragonfly-reverb
