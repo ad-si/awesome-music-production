@@ -317,6 +317,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
   and release management.
 - [Composer's Sketchpad] - Sequencer that combines musical staff paper with an artist's sketchbook (iOS only). $
 - [Dragonfly Reverb] - Open source audio effects for Linux, macOS, and Windows.
+- [Fat Berry DSP] - 14 free audio plugins (EQ, delay, tremolo, phaser, synths, drums) for Windows and macOS (VST3/AU), with paid ones alongside. $
 - [Fluajho] - Simple SF2 soundfont host and player for Linux.
 - [FreeEQ8] - Free, open-source 8-band parametric EQ plugin (VST3/AU) for macOS and Windows.
 - [Graillon] - Vocal pitch correction, formant shifting, and live voice changing plugin (VST3/AU/AAX/LV2). $
@@ -356,6 +357,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Claude AI Music Skills]: https://github.com/bitwize-music-studio/claude-ai-music-skills
 [Composer's Sketchpad]: http://composerssketchpad.com
 [Dragonfly Reverb]: https://github.com/michaelwillis/dragonfly-reverb
+[Fat Berry DSP]: https://fatberrydsp.com/free
 [Fluajho]: https://laborejo.org/documentation/fluajho/english.html
 [FreeEQ8]: https://github.com/GareBear99/FreeEQ8
 [Graillon]: https://auburnsounds.itch.io/graillon
