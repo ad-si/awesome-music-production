@@ -309,6 +309,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 - [1BITDRAGON] - Easy, approachable music creation tool with 200+ instruments and drum samples. $
 - [Agordejo] - Music production session manager.
+- [AudioLens] - Audio playback, waveforms, and spectrogram analysis inside VS Code.
 - [Auxy] - Modern instruments for mobile creators. $
 - [Captain Plugins] - Suite of plugins for chord progressions, melodies, basslines, and beats by Mixed In Key. $
 - [ChipTone] - Free tool for generating sound effects.
@@ -350,6 +351,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 [1BITDRAGON]: https://1bitdragon.itch.io/1bitdragon
 [Agordejo]: https://laborejo.org/agordejo/
+[AudioLens]: https://github.com/SimZhou/vscode-audiolens
 [Auxy]: https://auxy.co/
 [Captain Plugins]: https://mixedinkey.com/captain-plugins/
 [ChipTone]: https://sfbgames.itch.io/chiptone
