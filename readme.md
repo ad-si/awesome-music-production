@@ -344,6 +344,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Seq24] - Minimal loop based midi sequencer.
 - [Sonic Visualiser] - Visualize, analyze, and annotate music audio recordings.
 - [SpectralHarp] - Strum the sound spectrum to create strange sounds (VST3/AU/standalone).
+- [Stepista] - MIDI pattern generator plugin (VST3/AU) that learns rhythm, intervals and range from your own clips. $
 - [Spire] - iOS multitrack recording app with FX & mixing features.
 - [Transcribe!] - App to help transcribe recorded music. $
 - [Ultimate Vocal Remover] - AI-powered vocal remover.
@@ -383,6 +384,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Seq24]: https://filter24.org/seq24/
 [Sonic Visualiser]: https://sonicvisualiser.org
 [SpectralHarp]: https://damikyu.itch.io/spectralharp
+[Stepista]: https://www.stepista.com/
 [Spire]: https://apps.apple.com/us/app/spire-music-recorder-studio/id1013021109
 [Transcribe!]: https://www.seventhstring.com/xscribe/overview.html
 [Ultimate Vocal Remover]: https://ultimatevocalremover.com/
