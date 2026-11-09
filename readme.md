@@ -660,9 +660,11 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 ## Datasets
 
+- [Audio-to-MIDI Boundary Cases] - Source-linked audio-to-MIDI conversion boundary cases with documented measurement limits.
 - [Free MIDI Chords] - Collection of free MIDI chords and progressions.
 - [SigSep] - Publicly available datasets for research on source separation.
 
+[Audio-to-MIDI Boundary Cases]: https://github.com/valdopoynter38-source/audio-midi-boundary-cases
 [Free MIDI Chords]: https://github.com/ldrolez/free-midi-chords
 [SigSep]: https://sigsep.github.io/
 
