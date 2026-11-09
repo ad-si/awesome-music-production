@@ -50,6 +50,7 @@ A curated list of software, hardware, and other resources to create music.
 - [ACID] - A DAW known for its loop-based music creation. $
 - [Ardour] - Open source, cross platform DAW for recording, editing and mixing.
 - [Bitwig] - Modular DAW for production and performance with extensive modulation. $
+- [Bluestone] - Open source, cross platform, timing-first DAW that treats hardware instruments and plugins as equals.
 - [Cakewalk] - Free, full-featured DAW by BandLab for Windows.
 - [Cubase] - Full-featured DAW for recording, editing and mixing by Steinberg. $
 - [Digital Performer] - DAW with deep MIDI editing and notation by MOTU. $
@@ -85,6 +86,7 @@ A curated list of software, hardware, and other resources to create music.
 [ACID]: https://web.archive.org/web/20231221120049/https://www.magix.com/us/music-editing/acid/
 [Ardour]: https://ardour.org
 [Bitwig]: https://www.bitwig.com/
+[Bluestone]: https://github.com/djflan/Bluestone
 [Cakewalk]: https://www.bandlab.com/products/cakewalk
 [Cubase]: https://www.steinberg.net/cubase/
 [Digital Performer]: https://motu.com/en-us/products/software/dp/
