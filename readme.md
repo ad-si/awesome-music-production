@@ -43,6 +43,7 @@ A curated list of software, hardware, and other resources to create music.
 <!-- tocstop -->
 
 ## Software
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Native macOS music companion showing current track details beside the Dock.
 
 ### Audio Workstations
 
