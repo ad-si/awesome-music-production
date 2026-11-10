@@ -416,6 +416,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Keithwhor.com/music] - Musical Keyboard - JS Dynamic Audio Synth.
 - [Klank] - Sound and animation in the browser using PureScript.
 - [Klaviero] - Falling-notes piano game for MIDI keyboards with a library of classical pieces. $
+- [MakeItMidi] - Browser-based MP3/WAV/voice-to-MIDI converter that runs entirely on the user's device (no upload, no login). $
 - [Lissajous] - A tool for programmatic audio performance in the browser.
 - [Loopjs] - Live Electronic Music Performance Software.
 - [Looplabs] - Cloud based music studio.
@@ -486,6 +487,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Looplabs]: https://www.looplabs.com/
 [Loudness Penalty]: https://www.loudnesspenalty.com/
 [mdrone]: https://mdrone.org
+[MakeItMidi]: https://makeitmidi.com/
 [Melody Mate]: https://melody-mate-khaki.vercel.app/
 [mix check studio]: https://mixcheckstudio.roexaudio.com/
 [Musical Chord Progression Arpeggiator]: https://codepen.io/jak_e/pen/qNrZyw
