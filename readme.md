@@ -303,6 +303,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Substation for VCV Rack]: https://slimechildaudio.itch.io/substation
 [Surge Synthesizer]:  https://surge-synthesizer.github.io
 [Yoshimi]: https://yoshimi.github.io/
+- [FM-1 Emulator](https://fm1-emulator.atst.tools/) - Free browser emulator for the M-VAVE FM-1 pocket synth; plays stock and 200+ community firmwares
 
 
 ### Apps
