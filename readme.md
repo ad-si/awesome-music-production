@@ -638,8 +638,10 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 ### Music Promotion
 
+- [No Stairs Please] - Directory and remote MCP server for under-400-capacity live-music venues and booking contacts across all 50 US states, DC, and British Columbia.
 - [SubmitHub] - Submit your music to bloggers and curators. $
 
+[No Stairs Please]: https://nostairsplease.com/mcp
 [SubmitHub]: https://www.submithub.com
 
 
