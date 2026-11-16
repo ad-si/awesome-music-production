@@ -521,11 +521,12 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 
 ### SaaS
-
+- [KROMA Sound] - Browser AI audio post-production studio: stem and crowd separation down to individual voice lines, voice-to-instrument conversion, seamless long-form mixes, loudness-target mastering. $
 - [Landr] - Automatic audio mastering. $
 - [The Mix Medic] - In-browser AI mastering with reference matching. $
 - [Virtu] - Assisted mastering. $
 
+[KROMA Sound]: https://www.kromasound.com
 [Landr]: https://www.landr.com
 [The Mix Medic]: https://themixmedic.com
 [Virtu]: https://virtu.slatedigital.com
