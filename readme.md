@@ -640,7 +640,13 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 - [SubmitHub] - Submit your music to bloggers and curators. $
 
+- [Barz Studio] - Free browser-based lyric video maker: sync imported lyrics (SRT/LRC) to your own audio track and export shareable videos.
+
+- [Barz Studio] - Free browser-based lyric video maker: sync imported lyrics (SRT/LRC) to your own audio track and export shareable videos.
+
 [SubmitHub]: https://www.submithub.com
+[Barz Studio]: https://barzvideo.com
+[Barz Studio]: https://barzvideo.com
 
 
 ### Sound / Sample Providers
