@@ -396,6 +396,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [AI Duet] - A smart piano that responds to you.
 - [Arpeggiator] - Web Audio Arpeggiator.
 - [Audio Motion Interface] - Use smartphone motions to control a synthesizer.
+- [AVIZ] - Music visualizer that reacts to the kick, bass and drops of a track, with node-based scenes and video export. Runs in the browser and on Mac.
 - [Baroque Dances] - Procedurally generated classical music.
 - [Beat Push] - Online music production with built-in parallel drum and synth machine.
 - [beatboxer] - Simple drum machine.
@@ -461,6 +462,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [AI Duet]: https://experiments.withgoogle.com/ai-duet
 [Arpeggiator]: https://arpeggiator.desandro.com/
 [Audio Motion Interface]: https://github.com/MaxAlyokhin/audio-motion-interface
+[AVIZ]: https://aviz.studio
 [Baroque Dances]: https://devinrothmusic.com/baroquedances/
 [Beat Push]: https://beatpush.com/
 [beatboxer]: https://sig.gy/beatboxer/
