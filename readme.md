@@ -147,6 +147,7 @@ A curated list of software, hardware, and other resources to create music.
 - [Microm] - JavaScript library to convert browser microphone to mp3.
 - [mididings] - A Python-based MIDI router and processor for Linux and macOS
 - [Music Suite] - Haskell based language for describing music.
+- [music++] - C++ header only library for representation, analysis, generation and manipulation of musical phenomena.
 - [Nashville] - Convert Nashville Number System (NNS) entries to chords.
 - [Node Speaker] - Output PCM audio data to the speakers.
 - [Octavian] - Utility to reason about notes, frequencies, and intervals.
@@ -208,6 +209,7 @@ A curated list of software, hardware, and other resources to create music.
 [Microm]: https://github.com/zzarcon/microm
 [mididings]: https://github.com/mididings/mididings
 [Music Suite]: https://music-suite.github.io/
+[music++]: https://github.com/sivabenepoivediamo/musicplusplus
 [Nashville]: https://github.com/sgoudie/nashville
 [Node PitchFinder]: https://github.com/cristovao-trevisan/node-pitchfinder
 [Node Speaker]: https://github.com/TooTallNate/node-speaker
@@ -340,6 +342,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Reverie] - Desktop app that transforms audio files into evolving ambient textures and drones (macOS and Windows). $
 - [RollTab] - AI piano partner that continues your MIDI keyboard playing in real time with an on-device model (Apple platforms).
 - [Samplr] - Multi-touch music making app for iPad. $
+- [Scale Navigator] - Harmony-aware plugins by Nathan Turczan.
 - [SeekMIDI] - Graphical multi channel MIDI sequencer.
 - [Seq24] - Minimal loop based midi sequencer.
 - [Sonic Visualiser] - Visualize, analyze, and annotate music audio recordings.
@@ -379,6 +382,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Reverie]: https://reverie.parallel-minds.studio
 [RollTab]: https://apps.apple.com/us/app/rolltab/id6799679058
 [Samplr]: http://samplr.net
+[Scale Navigator]: https://www.scalenavigator.com/
 [SeekMIDI]: https://oldtechaa.github.io/SeekMIDI/
 [Seq24]: https://filter24.org/seq24/
 [Sonic Visualiser]: https://sonicvisualiser.org
