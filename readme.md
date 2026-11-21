@@ -331,6 +331,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Melodics] - Desktop app to teach playing MIDI keyboards, pads, and e-drums. $
 - [MIDI Tapper] - Shape music performances with multi-touch gestures.
 - [Midica] - Music programming language and desktop app for MIDI generation.
+- [motu-ui] - Free, open-source Windows control panel for MOTU M-series USB audio interfaces (live meters, loopback monitoring, latency presets).
 - [Nimble Kick] - Sampler plugin specialized for pitching hardstyle kicks (VST3/AU). $
 - [Ninjas 2] - Sample slicer audio plugin and standalone app.
 - [Orb Producer Suite] - Suite of AI-assisted plugins for generating melodies, basslines, chords, and arpeggios. $
@@ -370,6 +371,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Melodics]: https://melodics.com
 [MIDI Tapper]: https://hpi.zentral.zone/miditapper
 [Midica]: https://www.midica.org/
+[motu-ui]: https://github.com/dvinerlove/motu-ui
 [Nimble Kick]: https://nimble.itch.io/kick
 [Ninjas 2]: https://github.com/clearly-broken-software/ninjas2
 [Orb Producer Suite]: https://www.landr.com/plugins/landr-composer
