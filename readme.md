@@ -592,6 +592,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 ### AI Music Creation
 
+- [AI Vocals Generator] - Adds an AI singer or rapper to your own beat and returns the vocal as a separate track. $
 - [ILLUGEN] - AI-powered text-to-sample engine. $
 - [LAIVE] $
 - [LatentScore Live] - Generate ambient music from text in the browser.
@@ -601,6 +602,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Splash] - AI-powered music creation platform.
 - [Suno AI] - AI-powered music composition and production platform. $
 
+[AI Vocals Generator]: https://aivocalsgenerator.com/
 [ILLUGEN]: https://www.waves.com/illugen
 [LAIVE]: https://www.laive.io
 [LatentScore Live]: https://latentscore.com
