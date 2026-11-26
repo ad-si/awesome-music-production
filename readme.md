@@ -417,6 +417,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Klank] - Sound and animation in the browser using PureScript.
 - [Klaviero] - Falling-notes piano game for MIDI keyboards with a library of classical pieces. $
 - [Lissajous] - A tool for programmatic audio performance in the browser.
+- [AIAC SoundCraft] - Browser-local Rust/WebAssembly multitrack DAW, LUFS loudness meter, and audio analysis studio.
 - [Loopjs] - Live Electronic Music Performance Software.
 - [Looplabs] - Cloud based music studio.
 - [Loudness Penalty] - Check how loud your track is and how much it will be penalised by online streaming services.
@@ -482,6 +483,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Klank]: https://klank.dev/
 [Klaviero]: https://klaviero.com
 [Lissajous]: https://github.com/kylestetz/lissajous
+[AIAC SoundCraft]: https://aiac.app/soundcraft/
 [Loopjs]: https://github.com/mmckegg/loop-drop-app
 [Looplabs]: https://www.looplabs.com/
 [Loudness Penalty]: https://www.loudnesspenalty.com/
